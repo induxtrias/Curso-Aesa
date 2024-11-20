@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dividir PDF</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+    input, button {
+      margin: 10px;
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
+</head>
+<body>
+  <h1>Dividir PDF en Dos Partes</h1>
+  <p>Sube un archivo PDF para dividirlo en dos partes iguales.</p>
+  <input type="file" id="pdfFile" accept="application/pdf">
+  <button onclick="splitPDF()">Dividir PDF</button>
+  <p id="status"></p>
+
+  <script>
+    async function splitPDF() {
+      const fileInput = document.getElementById("pdfFile");
+      const status = document.getElementById("status");
+
+      if (!fileInput.files.length) {
+        status.textContent = "Por favor, selecciona un archivo PDF.";
+        return;
+      }
+
+      const file = fileInput.files[0];
+      status.textContent = "Procesando archivo...";
+
+      try {
+        const arrayBuffer = await file.arrayBuffer();
+        const pdfDoc = await PDFLib.PDFDocument.load(arrayBuffer);
+
+        const totalPages = pdfDoc.getPageCount();
+        const midPoint = Math.floor(totalPages / 2);
+
+        // Crear los dos nuevos documentos PDF
+        const part1 = await PDFLib.PDFDocument.create();
+        const part2 = await PDFLib.PDFDocument.create();
+
+        // Añadir las páginas a cada parte
+        for (let i = 0; i < midPoint; i++) {
+          const [copiedPage] = await part1.copyPages(pdfDoc, [i]);
+          part1.addPage(copiedPage);
+        }
+
+        for (let i = midPoint; i < totalPages; i++) {
+          const [copiedPage] = await part2.copyPages(pdfDoc, [i]);
+          part2.addPage(copiedPage);
+        }
+
+        // Descargar los archivos resultantes
+        const part1Bytes = await part1.save();
+        const part2Bytes = await part2.save();
+
+        downloadPDF(part1Bytes, "part1.pdf");
+        downloadPDF(part2Bytes, "part2.pdf");
+
+        status.textContent = "El archivo se ha dividido correctamente.";
+      } catch (error) {
+        status.textContent = "Error al procesar el archivo: " + error.message;
+      }
+    }
+
+    function downloadPDF(bytes, filename) {
+      const blob = new Blob([bytes], { type: "application/pdf" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = filename;
+      link.click();
+      URL.revokeObjectURL(link.href);
+    }
+  </script>
+</body>
+</html>
