@@ -1,0 +1,2985 @@
+
+Anexo del Reglamento de Ejecución (UE) 2019/947 — OPERACIONES CON UAS EN LAS CATEGORÍAS «ABIERTA» Y «ESPECÍFICA»
+PARTE B — OPERACIONES DE UAS EN LA CATEGORÍA «ESPECÍFICA»
+
+UAS.SPEC.010 Disposiciones generales
+
+Reglamento (UE) 2020/639
+
+El operador de UAS deberá proporcionar a la autoridad competente una evaluación del riesgo operativo para la operación prevista de conformidad con el artículo 11 , o presentar una declaración cuando sea aplicable el punto UAS.SPEC.020 , a menos que el operador posea un certificado de operador de UAS ligero (LUC) con las atribuciones adecuadas, de conformidad con la parte C del presente anexo. El operador de UAS deberá evaluar periódicamente la idoneidad de las medidas de mitigación adoptadas y actualizarlas cuando sea necesario.
+
+UAS.SPEC.020 Declaración operacional
+
+Reglamento (UE) 2020/639
+
+(1) De conformidad con el artículo 5 , el operador de UAS podrá presentar una declaración operativa de conformidad con un escenario estándar según se define en el apéndice 1  del presente anexo a la autoridad competente del Estado miembro de registro como alternativa a los puntos UAS.SPEC.030 y UAS.SPEC.040 en relación con las operaciones:
+
+(a) de aeronaves no tripuladas con:
+
+(i) dimensión característica máxima de hasta 3 metros en VLOS sobre área terrestre controlada, excepto sobre reuniones de personas,
+
+(ii) dimensión característica máxima hasta 1 metro en VLOS excepto sobre reuniones de personas;
+
+(iii) dimensión característica máxima de hasta 1 metro en BVLOS sobre áreas escasamente pobladas;
+
+(iv) dimensión característica máxima de hasta 3 metros en BVLOS sobre área de tierra controlada.
+
+(b) realizadas a menos de 120 metros del punto más cercano a la superficie de la tierra, y:
+
+(i) en espacio aéreo no controlado (clase F o G), a menos que los Estados miembros establezcan limitaciones diferentes mediante zonas geográficas de UAS en áreas donde la probabilidad de encontrarse con aeronaves tripuladas no sea baja; o
+
+(ii) en espacio aéreo controlado, de conformidad con los procedimientos publicados para el área de operación, de modo que se garantice una baja probabilidad de encuentro con aeronaves tripuladas.
+
+(2) Una declaración de operadores de UAS deberá contener:
+
+(a) información administrativa sobre el operador del UAS;
+
+(b) una declaración de que la operación satisface el requisito operativo establecido en el punto (1) y un escenario estándar según se define en el apéndice 1  del anexo;
+
+(do) el compromiso del operador del UAS de cumplir con las medidas de mitigación pertinentes requeridas para la seguridad de la operación, incluidas las instrucciones asociadas para la operación, para el diseño de la aeronave no tripulada y la competencia del personal involucrado.
+
+(d) confirmación por parte del operador del UAS de que se suscribirá una cobertura de seguro adecuada para cada vuelo realizado conforme a la declaración, si así lo exige la legislación de la Unión o nacional.
+
+(3) Al recibir la declaración, la autoridad competente verificará que esta contenga todos los elementos enumerados en el punto (2) y proporcionará al operador del UAS una confirmación de su recepción e integridad sin demora indebida.
+
+(4) Después de recibir la confirmación de recepción y completitud, el operador del UAS tiene derecho a iniciar la operación.
+
+(5) Los operadores de UAS deberán notificar, sin demora, a la autoridad competente cualquier cambio en la información contenida en la declaración operacional que presentaron.
+
+(6) Los operadores de UAS que posean una LUC con privilegios apropiados, de conformidad con la Parte C de este Anexo, no están obligados a presentar la declaración.
+
+UAS.SPEC.030 Solicitud de autorización operativa
+
+Reglamento (UE) 2020/639
+
+(1) Antes de iniciar una operación de UAS en la categoría «específica», el operador de UAS deberá obtener una autorización operativa de la autoridad nacional competente del Estado miembro de registro, excepto:
+
+(a) cuando sea aplicable el punto UAS.SPEC.020 ; o
+
+(b) El operador del UAS posee un LUC con los privilegios apropiados, de conformidad con la Parte C de este Anexo.
+
+(2) El operador del UAS deberá presentar una solicitud de autorización operativa actualizada si se producen cambios significativos en la operación o en las medidas de mitigación enumeradas en la autorización operativa.
+
+(3) La solicitud de autorización operativa se basará en la evaluación de riesgos a que se refiere el artículo 11 e incluirá además la siguiente información:
+
+(a) el número de registro del operador del UAS;
+
+(b) el nombre del administrador responsable o el nombre del operador del UAS en el caso de una persona física;
+
+(do) la evaluación del riesgo operacional;
+
+(d) la lista de medidas de mitigación propuestas por el operador del UAS, con información suficiente para que la autoridad competente evalúe la idoneidad de los medios de mitigación para abordar los riesgos;
+
+(mi) un manual de operaciones cuando lo requiera el riesgo y la complejidad de la operación;
+
+(F) una confirmación de que se dispondrá de una cobertura de seguro adecuada al inicio de las operaciones del UAS, si así lo exige la legislación de la Unión o nacional.
+
+AMC1 UAS.SPEC.030(2) Solicitud de autorización operativa
+
+Decisión ED 2022/002/R
+
+FORMULARIO DE SOLICITUD DE AUTORIZACIÓN OPERACIONAL
+
+El operador del UAS debe presentar una solicitud de autorización operativa de acuerdo con el siguiente formulario. La solicitud y toda la documentación a la que se hace referencia o adjunta a la solicitud deben conservarse durante al menos 2 años después de la expiración de la autorización operativa relacionada o la presentación de la solicitud en caso de denegación. El operador del UAS debe garantizar la protección de los datos almacenados contra el acceso no autorizado, los daños, la alteración y el robo. La declaración puede complementarse con la descripción de los procedimientos para garantizar que todas las operaciones cumplan con el Reglamento (UE) 2016/679  sobre la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de dichos datos, como se exige en el punto UAS.SPEC.050 (1)(a)(iv)  del Reglamento UAS.
+
+	
+
+Solicitud de autorización de funcionamiento para la categoría “específica”
+
+ 
+
+Protección de datos : Los datos personales incluidos en esta solicitud son tratados por la autoridad competente de conformidad con el Reglamento (UE) 2016/679  del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos). Los datos personales serán tratados con la finalidad de la ejecución, gestión y seguimiento de la solicitud por la autoridad competente de conformidad con el artículo 12  del Reglamento (UE) 2019/947 , de 24 de mayo de 2019, sobre las normas y procedimientos para la operación de aeronaves no tripuladas.
+
+Si el solicitante necesita más información sobre el tratamiento de sus datos personales o el ejercicio de sus derechos (por ejemplo, acceder o rectificar cualquier dato inexacto o incompleto), deberá dirigirse al punto de contacto de su autoridad competente.
+
+El solicitante tiene derecho a presentar en cualquier momento una reclamación relativa al tratamiento de sus datos personales ante la autoridad nacional de supervisión de protección de datos.
+
+ 
+
+Nueva aplicación
+	
+
+Modificación de la autorización operativa NNN-OAT-xxxxx/yyy
+
+1. Datos del operador del UAS
+
+1.1 Número de registro del operador de UAS
+	
+
+ 
+
+1.2 Nombre del operador del UAS
+	
+
+ 
+
+1.3 Nombre del gerente responsable
+	
+
+ 
+
+1.3 Punto de contacto operativo
+
+Nombre
+
+Teléfono
+
+Correo electrónico
+	
+
+ 
+
+2 Detalles de la operación del UAS
+
+2.1 Fecha prevista de inicio de la operación
+	
+
+DD/MM/AAAA
+	
+
+2.2 Fecha de finalización prevista
+	
+
+DD/MM/AAAA
+
+2.3 Ubicación(es) prevista(s) para la operación
+	
+
+ 
+
+2.4 Referencia y revisión de la evaluación de riesgos
+	
+
+Versión de SORA __  PDRA # __-__  otro _________
+
+2.5 Nivel de seguridad e integridad
+	
+
+ 
+
+2.6. Tipo de operación
+	
+
+VLOS           BVLOS         
+
+2.7 Transporte de mercancías peligrosas
+	
+
+Sí              No         
+
+2.8 Caracterización del riesgo del terreno
+	
+
+2.8.1 Área operativa
+	
+
+ 
+
+2.8.2 Área adyacente
+
+2.9 Límite superior del volumen operacional
+	
+
+ 
+
+2.10 Volumen del espacio aéreo de la operación prevista
+	
+
+A        B        do        D        mi        F        GRAMO       
+
+Espacio U             Otro, especifique
+
+2.11 Nivel de riesgo residual del aire
+	
+
+2.12.1 Volumen operacional
+	
+
+Arco-a          Arco-b          Arco-c         Arco-d
+
+2.11.2. Volumen adyacente
+	
+
+Arco-a          Arco-b          Arco-c         Arco-d
+
+2.12 Referencia del manual de operaciones
+	
+
+ 
+
+2.13 Referencia del archivo de evidencia de cumplimiento
+	
+
+ 
+
+3. Datos de UAS
+
+3.1 Fabricante
+	
+
+ 
+	
+
+3.2 Modelo
+	
+
+ 
+
+3.3 Tipo de UAS
+	
+
+AviónHelicóptero
+
+MultirotorHíbrido/VTOL
+
+Más ligero que el aire / otro
+	
+
+3.4 Dimensiones características máximas
+	
+
+_____ m
+
+3.5 Masa de despegue
+	
+
+_____ kilos
+	
+
+3.6 Velocidad máxima
+	
+
+_____ m/s (_____ kt)
+
+3.7 Número de serie o, en su caso, marca de registro de UA
+	
+
+ 
+
+3.8 Certificado de tipo (TC) o informe de verificación de diseño, si corresponde
+	
+
+ 
+
+3.9 Número del certificado de aeronavegabilidad (CofA), si corresponde
+	
+
+ 
+
+3.10 Número del certificado de ruido, si procede
+	
+
+ 
+
+3.11 Mitigación de los efectos del impacto sobre el suelo
+	
+
+No        Sí, bajo        Sí, mediano        Sí, alto
+
+3.12 Requisitos técnicos para la contención
+	
+
+Básico                                 Mejorado
+
+4. Observaciones
+
+ 
+
+5. Declaración de conformidad
+
+Yo, el abajo firmante, declaro por la presente que la operación del UAS cumplirá con:
+
+—      cualquier normativa nacional y de la Unión aplicable relacionada con la privacidad, la protección de datos, la responsabilidad, los seguros, la seguridad y la protección del medio ambiente;
+
+—      los requisitos aplicables del Reglamento (UE) 2019/947 ; y
+
+—      las limitaciones y condiciones definidas en la autorización de explotación otorgada por la autoridad competente.
+
+Además, declaro que la cobertura de seguro relacionada, si corresponde, estará vigente en la fecha de inicio de la operación del UAS.
+
+Fecha
+
+DD/MM/AAAA
+	
+
+Firma y sello
+						
+
+Instrucciones para rellenar el formulario de solicitud
+
+Si la solicitud se refiere a una modificación de una autorización de explotación existente, indique el número de la autorización de explotación y rellene en rojo los campos que se modifican respecto a la última autorización de explotación.
+
+1.1 Número de registro del operador de UAS de conformidad con el artículo 14 del Reglamento UAS.
+
+1.2 Nombre del operador del UAS tal como se declaró durante el proceso de registro.
+
+1.3 Nombre del responsable o, en caso de persona física, el nombre del operador del UAS.
+
+1.4 Datos de contacto del responsable de la operación, encargado de responder posibles cuestiones operativas planteadas por la autoridad competente.
+
+2.1 Fecha en la que el operador del UAS espera iniciar la operación.
+
+2.2 Fecha en la que el operador del UAS prevé finalizar la operación. El operador del UAS puede solicitar una duración ilimitada; en este caso, indique “Ilimitada”.
+
+2.3 Ubicación(es) en las que el operador de UAS pretende realizar la operación de UAS. La identificación de la(s) ubicación(es) debe contener el volumen operativo completo y el margen de riesgo terrestre (la línea roja en la Figura 1). Dependiendo del riesgo terrestre y aéreo inicial y de la aplicación de medidas de mitigación, la(s) ubicación(es) pueden ser "genéricas" o "precisas" (consulte GM2 UAS.SPEC.030(2)  ).
+
+Figura 1 — Área operativa y zona de amortiguamiento de riesgos del terreno
+
+2.4 Seleccione una de las tres opciones. Si se utiliza el SORA, indique la versión. En caso de que se utilice un PDRA, indique el número y su revisión. En caso de que se utilice una metodología de evaluación de riesgos distinta al SORA, proporcione su referencia. En este último caso, el operador de UAS debe demostrar que la metodología cumple con el artículo 11  del Reglamento UAS.
+
+2.5 Si la metodología de riesgo utilizada es la SORA, indicar el SAIL final de la operación, en caso contrario la información equivalente proporcionada por la metodología de evaluación de riesgos utilizada.
+
+2.6 Seleccione una de las dos opciones.
+
+2.7 Seleccione una de las dos opciones.
+
+2.8 Caracterizar el riesgo terrestre (es decir, densidad de población sobrevolada, expresada en personas por km2 , si está disponible, o 'área terrestre controlada', 'área escasamente poblada', 'área poblada', 'concentraciones de personas') tanto para el área operativa como para el área adyacente.
+
+2.9 Insertar la altitud máxima de vuelo, expresada en metros y pies entre paréntesis, del volumen operacional (añadiendo el margen de riesgo aéreo, si corresponde) utilizando la referencia AGL cuando el límite superior sea inferior a 150 m (492 ft), o utilizar la referencia MSL cuando el límite superior sea superior a 150 m (492 ft).
+
+2.10 Seleccione una o más de las nueve opciones. Seleccione "Otro" en caso de que ninguna de las opciones anteriores sea aplicable (por ejemplo, zonas militares).
+
+2.11 Seleccione una de las cuatro opciones.
+
+2.12 Indicar el número de identificación y revisión del OM. Este documento deberá adjuntarse a la solicitud.
+
+2.13 Indique el número de identificación y revisión del expediente de evidencia de cumplimiento. Este documento deberá adjuntarse a la solicitud.
+
+3.1 Nombre del fabricante del UAS.
+
+3.2 Modelo del UAS según lo definido por el fabricante.
+
+3.3 Seleccione una de las cinco opciones.
+
+3.4 Indique las dimensiones máximas de la UA en metros (por ejemplo, para aviones: la longitud de la envergadura; para helicópteros: el diámetro de las hélices; para multirotores: la distancia máxima entre las puntas de dos hélices opuestas) tal como se utilizan en la evaluación de riesgos para identificar el riesgo en tierra.
+
+3.5 Indique el valor máximo, expresado en kg, de la masa de despegue (TOM) del UA, con el que se puede operar el UAS. Todos los vuelos deben realizarse sin superar esa TOM. La TOM puede ser diferente (pero no superior) a la MTOM definida por el fabricante del UAS.
+
+3.6 Velocidad máxima de crucero, expresada en m/s y kt entre paréntesis, según se define en las instrucciones del fabricante.
+
+3.7 Número de serie (SN) único del UA definido por el fabricante según la norma ANSI/CTA‑2063‑A‑2019, Small Unmanned Aerial Systems Serial Numbers , 2019, o marca de registro del UA si el UA está registrado. En el caso de UAS de fabricación privada o UAS que no tengan un SN único, inserte el SN único del sistema de identificación remota.
+
+3.8 Incluya el número TC de EASA o el número del informe de verificación de diseño de UAS emitido por EASA, si corresponde.
+
+3.9 Si la autoridad competente requiere un UAS con un TC EASA, el UAS debe tener un certificado de aeronavegabilidad (CofA).
+
+3.10 Si la autoridad competente exige un UAS con un TC EASA, el UAS deberá tener un certificado de ruido.
+
+3.11 Seleccione una de las cuatro opciones.
+
+3.12 Seleccione una de las dos opciones.
+
+4 Campo de texto libre para añadir cualquier observación relevante.
+
+Nota 1: La sección 3 puede incluir más de un UAS. En ese caso, debe completarse con los datos de todos los UAS que se pretenden utilizar. Si es necesario, los campos pueden duplicarse.
+
+Nota 2: La firma y el sello podrán proporcionarse en forma electrónica.
+
+AMC2 UAS.SPEC.030(2) Solicitud de autorización operativa
+
+Decisión ED 2019/021/R
+
+CAMBIOS SIGNIFICATIVOS EN LA AUTORIZACIÓN OPERACIONAL
+
+(a) Cualquier cambio no editorial que afecte la autorización operativa, o afecte cualquier documentación asociada que se presente para demostrar el cumplimiento de los requisitos establecidos para la autorización, debe considerarse un cambio significativo.
+
+(b) Respecto de la información y documentación asociada a la autorización, se considerarán significativos los cambios que afecten, por ejemplo:
+
+(1) cambios en las operaciones que afecten los supuestos de la evaluación de riesgos;
+
+(2) cambios relacionados con el sistema de gestión del operador del UAS (incluidos cambios de personal clave), su propiedad o su sede principal de negocios;
+
+(3) cambios no editoriales que afecten el informe de evaluación del riesgo operacional;
+
+(4) cambios no editoriales que afecten las políticas y procedimientos del operador del UAS; y
+
+(5) cambios no editoriales que afectan al OM (cuando sea necesario).
+
+GM1 UAS.SPEC.030(2) Solicitud de autorización operativa
+
+Decisión ED 2022/002/R
+
+FORMULARIO DE SOLICITUD DE AUTORIZACIÓN OPERACIONAL
+
+Dependiendo del nivel de riesgo de la operación, las características técnicas del UAS pueden desempeñar un papel importante en la mitigación del riesgo. En ese caso, el operador del UAS puede proporcionar información adicional a la NAA sobre las características del UAS que va a operar. La NAA, en cualquier caso, solicitará datos adicionales cuando sea necesario.
+
+Como ejemplo de cómo estructurar la información adicional, el operador del UAS puede complementar la solicitud de autorización con los elementos adicionales que se muestran a continuación. Se pueden añadir o eliminar elementos del ejemplo según sea necesario.
+
+TREN DE ATERRIZAJE
+	
+
+   Sí          No               
+
+Tipo
+	
+
+Fijado                  Retráctil         Otro
+
+Características
+	
+
+Ruedas            Patines                    Piernas                Otro
+
+CARACTERÍSTICAS DE CONSPICUIDAD (2)
+
+Pintura (1):
+
+Luces (2)
+	
+
+  Sí    No               
+	
+
+Intensidad: 
+
+Luces de visibilidad de aeronaves:
+
+Luces de control (indicadores de modo vuelo o alerta, etc.):
+
+ 
+
+PROPULSIÓN (3)
+
+ Eléctrico                                   Combustión                         Híbrido                       Otro
+
+Descripción:
+
+ 
+
+Nota: Proporcionar una breve descripción (por ejemplo, sistemas push/pull, sistemas coaxiales en el caso de multirotores, sistemas combinados, etc.).
+
+SISTEMAS
+
+ Hélices                                        Turbinas                                         Otro 
+
+ Descripción:
+
+Sistema de control y/o posicionamiento (4)
+
+CONTROLADOR DE VUELO (5)
+
+Fabricante: Modelo:
+
+Descripción:
+
+SISTEMA DE TERMINACIÓN DE VUELO (6)
+
+Descripción:
+
+MODOS DE VUELO (7)
+
+Descripción:
+
+ESTACIÓN DE CONTROL TERRESTRE (8)
+
+Emisor de radio:
+
+Fabricante: Modelo:
+
+Aplicación móvil/computadora:
+
+Fabricante: Modelo:
+
+Otro:
+
+Fabricante: Modelo:
+
+ENLACE DE COMUNICACIÓN DE CONTROL
+
+Descripción (frecuencia):                                 
+
+ENLACE DE COMUNICACIÓN POR TELEMETRÍA
+	
+
+ Sí          No               
+
+Descripción (frecuencia):
+
+ENLACE DE COMUNICACIÓN DEL SISTEMA DE VIDEO (FPV)
+	
+
+ Sí          No               
+
+Descripción (frecuencia):
+
+ENLACE DE COMUNICACIÓN DE CARGA ÚTIL
+	
+
+ Sí          No               
+
+Descripción (frecuencia):
+
+CARGA ÚTIL (9)
+	
+
+ Sí          No               
+
+TIPO
+
+ Fijado                                                      Intercambiable
+
+Descripción:
+
+ 
+
+LÍMITES DE OPERACIÓN (10)
+
+Altura máxima de funcionamiento:
+
+ 
+
+Velocidad aérea máxima:
+
+ 
+
+Condiciones climáticas:
+
+ 
+
+SISTEMAS DE SEGURIDAD/REDES DE SEGURIDAD Y CONCIENCIACIÓN (11)
+
+DETECTAR Y EVITAR                                                                                             Sí          No  
+
+Descripción:             
+
+GEO-CERCADO O GEO-JAULA                                                                        Sí          No     
+
+Descripción:                       
+
+TRANSPONDEDOR                                                                                                     Sí          No     
+
+Descripción:             
+
+SISTEMAS PARA LIMITAR LA ENERGÍA DE IMPACTO                                                      Sí          No       
+
+Descripción:                     
+
+OTRO
+
+Descripción:             
+					
+
+(1) PINTAR
+
+Describe cualquier elemento pintado que sea visible (marcas) y significativo (color, forma, etc.).
+
+(2) LUCES
+
+Describe las luces, incluidos sus colores y ubicaciones.
+
+(3) PROPULSIÓN
+
+Marcar el tipo de propulsión utilizado, indicando (en el espacio destinado a tal efecto) el fabricante y modelo, y detallando datos relevantes como el número de motores, la configuración, etc. Podrán adjuntarse diagramas de diseño del grupo motopropulsor si fuese necesario.
+
+(4) SISTEMA DE CONTROL Y/O POSICIONAMIENTO
+
+Como instrucción general para esta sección, además de la descripción e información que se considere necesaria para definir estos sistemas, proporcione cualquier certificación y calificación de los sistemas, como las relacionadas con la compatibilidad electromagnética o cualquier otra directiva europea que satisfagan los equipos instalados en la aeronave, para su consideración durante la evaluación de riesgos específica realizada utilizando la evaluación de riesgos de operaciones específicas (SORA) o cualquier otra metodología de evaluación de riesgos que se siga para evaluar y autorizar las operaciones.
+
+(5) CONTROLADOR DE VUELO
+
+Indique el fabricante y el modelo del controlador de vuelo. Describa los aspectos relevantes que afectan a la seguridad del vuelo.
+
+(6) SISTEMA DE TERMINACIÓN DE VUELOS
+
+Describir e incluir las características técnicas del sistema, sus modos de operación, activación del sistema y cualquier certificación y calificación de los componentes, así como prueba de su compatibilidad electromagnética para su consideración durante el SORA o cualquier otra metodología de evaluación de riesgos que se siga para evaluar y autorizar las operaciones.
+
+(7) MODOS DE VUELO
+
+Describa los modos de vuelo (es decir, manual, estabilidad artificial con controlador, automático, autónomo). Para cada modo de vuelo, describa la variable que controla la aeronave: incrementos de posición, control de velocidad, control de actitud, tipo de control de altitud (qué sensor se utiliza para este propósito), etc.
+
+(8) ESTACIÓN DE CONTROL TERRESTRE
+
+Para los enlaces "encriptados", describa el sistema de encriptación utilizado, si corresponde.
+
+(9) CARGA ÚTIL
+
+Describa cada una de las diferentes configuraciones de carga útil que afectan a la misión o que, sin cambiarla, impactan en el peso y balance, la carga eléctrica o la dinámica de vuelo. Incluya todos los detalles técnicos relevantes. Si es necesario, puede utilizar otros documentos que proporcionen los detalles especificados.
+
+(10) LÍMITES DE OPERACIÓN
+
+Describe en este apartado la altura máxima de operación, la velocidad aerodinámica máxima (incluyendo Vmax de ascenso, Vmax de descenso y Vmax horizontal), y, además, las condiciones meteorológicas límite en las que puede operar el UAS (p.ej. lluvia, viento máximo, etc.)
+
+(11) SISTEMAS DE SEGURIDAD/REDES DE SEGURIDAD Y CONCIENCIACIÓN
+
+Describa los sistemas o equipos instalados en la aeronave para mitigar los posibles riesgos de seguridad operacional, ya sea que estén incluidos en el formulario o no.
+
+GM2 UAS.SPEC.030(2) Solicitud de autorización operativa
+
+Decisión ED 2022/002/R
+
+AUTORIZACIÓN OPERACIONAL "GENÉRICA" VERSUS "PRECISA"
+
+De acuerdo con el artículo 12  del Reglamento UAS, una autoridad competente puede decidir conceder una autorización operativa «genérica», es decir, una autorización operativa que sea aplicable a un número indefinido de vuelos que tengan lugar en lugares identificados de forma genérica, durante el período de validez de la autorización operativa. (A diferencia de la autorización operativa «genérica», una autorización operativa que se limite al número de vuelos y/o a lugares conocidos identificados por coordenadas geográficas se denominará autorización operativa «precisa»).
+
+CONDICIONES PARA LA EXPEDICIÓN DE UNA AUTORIZACIÓN OPERACIONAL “GENÉRICA”
+
+Una autorización operativa "genérica" ​​no contiene ninguna ubicación precisa (coordenadas geográficas), sino que se aplica a todas las ubicaciones que cumplen las condiciones/limitaciones aprobadas (por ejemplo, densidad de población del área operativa y adyacente, clase de espacio aéreo del área operativa y adyacente, altura máxima, etc.). El operador del UAS es responsable de verificar que cada vuelo que realice:
+
+—      cumple con las mitigaciones y los objetivos de seguridad operacional derivados del SORA y los requisitos enumerados en la autorización operacional; y
+
+—      se lleva a cabo en un área cuyas características y condiciones locales son consistentes con la clasificación GRC y ARC del SORA aprobada por la NAA.
+
+De todos modos, el operador del UAS debe comprobar si su Estado miembro ha publicado una zona geográfica en el área de operaciones de conformidad con el artículo 15  del Reglamento UAS, que requiera una autorización de vuelo (por ejemplo, este puede ser el caso de las áreas cubiertas por U-Space). Una autorización de vuelo no debe confundirse con una autorización operativa.
+
+Los criterios para determinar si un operador de UAS es elegible para una autorización operativa "genérica" ​​son los siguientes:
+
+1. Las limitaciones relativas al escenario operacional, el volumen operacional y los buffers definidos por la autorización operacional se expresan de tal manera que sea sencillo para el operador del UAS garantizar el cumplimiento de dichas limitaciones.
+
+Por lo general, será más fácil para el operador del UAS garantizar el cumplimiento cuando las condiciones sean inequívocas y no estén sujetas a interpretación. Este es el caso, por ejemplo, cuando:
+
+—      se requiere una superficie terrestre controlada o la densidad de población es muy baja;
+
+—      La operación se desarrolla en espacio aéreo segregado.
+
+A este respecto, las autorizaciones operacionales "genéricas" pueden ser relevantes para las operaciones realizadas de acuerdo con PDRA-Sxx, ya que las condiciones son similares a las del STS declarativo y es relativamente fácil para el operador del UAS garantizar el cumplimiento de dichas condiciones.
+
+Como regla general, una autorización operativa “precisa” en lugar de una “genérica” puede ser más apropiada cuando el iGRC ≥ 4 o el iARC ≥ ARC-c.
+
+2. Las medidas de mitigación estratégicas, si las hubiera, no están abiertas a interpretación ni son difíciles de implementar.
+
+El uso de alguna medida de mitigación estratégica (M1 para GRC o Paso 5 para ARC) suele generar debates entre el operador de UAS y la NAA sobre la relevancia/validez de las fuentes de datos (densidad de población, densidad/tipo de tráfico en un espacio aéreo determinado, etc.) y la eficiencia de las medidas de mitigación estratégicas propuestas. Además, algunas de estas medidas son difíciles de implementar y no siempre es posible que la NAA confíe simplemente en la capacidad del operador de UAS para hacerlo.
+
+Por ejemplo, los siguientes ejemplos muestran medidas que son difíciles de implementar y están abiertas a interpretación:
+
+—      lograr una reducción local de la densidad de población;
+
+—      garantizar la ausencia de personas no involucradas en áreas de terreno controladas de gran tamaño, o reservar áreas de terreno controladas de gran tamaño en entornos densamente poblados;
+
+—      iniciar una operación en el espacio aéreo que requiere un nuevo protocolo con el ANSP/ATSP, etc.
+
+Nota: En el futuro, el servicio calificado para la desconflictividad estratégica (U-space) puede ser una medida de mitigación válida para una autorización operacional "genérica".
+
+3. La NAA ha evaluado la capacidad del operador del UAS para identificar/evaluar las condiciones locales
+
+El operador del UAS debe contar con un proceso diligente y documentado para identificar/evaluar las condiciones locales y su cumplimiento de las limitaciones establecidas en la autorización (en el manual de operaciones [OM]). El operador del UAS debe capacitar a su personal para evaluar el volumen operativo, los márgenes de maniobra y las mitigaciones a fin de prepararse para las próximas operaciones. El operador del UAS también debe documentar y registrar la evaluación de las ubicaciones (por ejemplo, en los archivos de la misión), de modo que la NAA pueda verificar periódicamente el cumplimiento de este proceso.
+
+En el caso de operaciones sencillas en las que se cumplan los criterios 1 y 2, la NAA puede decidir emitir primero la autorización operativa "genérica" ​​y evaluar la solidez de los procedimientos mediante una supervisión continua.
+
+En el caso de operaciones complejas en las que no se cumplan los criterios 1 y 2, el tercer criterio es primordial. Si bien la NAA puede tener la suficiente confianza como para emitir directamente una autorización operativa "genérica", también puede decidir añadir algunas restricciones para las ubicaciones que sean válidas para la primera (o más) operación. El operador del UAS debe proporcionar pruebas a la NAA de que se ha seguido el proceso definido en el criterio 3 y de que la zona y las condiciones locales identificadas por el operador del UAS cumplen con la autorización. La NAA revisará las pruebas (como en el caso de una autorización "precisa") y confirmará por escrito al operador que su análisis es satisfactorio.
+
+Una vez que la NAA tenga suficiente evidencia o confianza de que el operador del UAS puede completar las evaluaciones por sí solo, se podrán retirar las restricciones sobre la ubicación.
+
+Eventualmente, una LUC puede ser apropiada para demostrar esta capacidad (ver más abajo).
+
+DIFERENCIAS ENTRE UNA AUTORIZACIÓN OPERACIONAL “GENÉRICA” Y UNA LUC
+
+Una autorización operativa en la que las ubicaciones se identifican de forma genérica puede, en cierta medida, atribuirse a ciertos privilegios concedidos al titular de una LUC: el operador de UAS puede programar nuevos vuelos sin recibir una nueva autorización operativa para cada uno de ellos. Sin embargo, una LUC ofrece más flexibilidad que una autorización operativa genérica, ya que permite al operador de UAS tener distintos niveles de privilegios, incluida la posibilidad de iniciar nuevos tipos de operaciones o utilizar tipos de UAS no validados previamente.
+
+Por otra parte, una autorización operacional "genérica" ​​no exige que el operador de UAS implemente formalmente un sistema de gestión. Este sistema de gestión sería desproporcionado para operaciones de bajo riesgo (como PDRA-Sxx) (véase el Criterio 2). Sin embargo, cuantos más requisitos se deriven de la SORA y las condiciones de las autorizaciones operacionales sean difíciles de verificar y cumplir, más sólidos y fiables deberán ser los procesos y la organización del operador de UAS para garantizar la ausencia de desviaciones.
+
+Finalmente, un LUC se hace necesario cuando el riesgo de desviación de estos procedimientos es alto y cuando la desviación de las condiciones validadas aumenta considerablemente el riesgo de la operación. El sistema de gestión del LUC será necesario para garantizar el cumplimiento de los procedimientos del operador de UAS a través de un proceso independiente.
+
+A este respecto, una LUC puede ser más relevante que una autorización operativa “genérica” en los siguientes casos:
+
+—      para operaciones SAIL ≥ 4 (debido a OSO#1 'Asegurar que el operador de UAS sea competente y/o probado' con un nivel 'alto' de robustez); o
+
+—      para operaciones SAIL ≥ 3, cuando se aplica la mitigación de riesgo estratégico terrestre (M1) o la mitigación de riesgo estratégico aéreo (Paso 5), para asegurarse de que el solicitante exhibe la cultura de seguridad adecuada para realizar una evaluación de riesgo de ubicación.
+
+AMC1 UAS.SPEC.030(3)(e) Solicitud de autorización operativa
+
+Decisión ED 2019/021/R
+
+MANUAL DE OPERACIONES — PLANTILLA
+
+Cuando se requiera de acuerdo con UAS.SPEC.030(3)(e) , el OM debe contener al menos la información que se detalla a continuación, si corresponde, personalizada para el área y el tipo de operación.
+
+0. Cubierta y contacto.
+
+0,1 Cubierta que identifica al operador del UAS con el título 'Manual de Operaciones', información de contacto y número de revisión del OM.
+
+0,2 Tabla de contenido.
+
+1. Introducción
+
+1.1 Definiciones, acrónimos y abreviaturas.
+
+1.2 Sistema de modificación y revisión del MO (enumere los cambios que requieren aprobación previa y los cambios que deben notificarse a la autoridad competente) .
+
+1.3 Registro de revisiones con fechas de vigencia.
+
+1.4 Lista de páginas vigentes (lista de páginas vigentes a menos que se vuelva a publicar todo el manual y éste tenga una fecha de vigencia) .
+
+1.5 Propósito y alcance del OM con una breve descripción de las diferentes partes del documento.
+
+1.6 Declaración de seguridad (incluya una declaración de que el OM cumple con los requisitos pertinentes del Reglamento (UE) 2019/947 y con la autorización o los términos de aprobación del certificado de operador de UAS ligero (LUC), en el caso de un titular de LUC, y contiene instrucciones que debe cumplir el personal involucrado en las operaciones de vuelo) .
+
+1.7 Firma de aprobación (el gerente responsable debe firmar esta declaración) .
+
+2. Descripción de la organización del operador del UAS (incluir el organigrama y una breve descripción del mismo) .
+
+3. Concepto de operaciones (ConOps)
+
+Para cada operación, describa lo siguiente:
+
+3.1 Naturaleza de la operación y riesgos asociados (describir la naturaleza de las actividades realizadas y los riesgos asociados) .
+
+3.2 Entorno operacional y área geográfica para las operaciones previstas (en términos generales, describir las características del área a sobrevolar, su topografía, obstáculos, etc., y las características del espacio aéreo a utilizar, y las condiciones ambientales (es decir, el clima y el entorno electromagnético); la definición del volumen de operación requerido y los márgenes de riesgo para abordar los riesgos terrestres y aéreos) .
+
+3.3 Medios técnicos utilizados (en términos generales, describir sus principales características, prestaciones y limitaciones, incluyendo UAS, sistemas externos que apoyan la operación del UAS, instalaciones, etc.)
+
+3.4 Competencias, deberes y responsabilidades del personal involucrado en las operaciones tales como piloto remoto, observador de UAS, observador visual (VO), supervisor, controlador, gerente de operaciones, etc. (calificaciones iniciales; experiencia en la operación de UAS; experiencia en la operación particular; entrenamiento y verificación; cumplimiento de las regulaciones aplicables y orientación a los miembros de la tripulación sobre salud, aptitud para el trabajo y fatiga; orientación al personal sobre cómo facilitar las inspecciones por parte del personal de la autoridad competente) .
+
+3.5 Análisis de riesgos y métodos para la reducción de los riesgos identificados (descripción de la metodología utilizada; presentación tipo moño u otra) .
+
+3.6 Mantenimiento (proporcionar instrucciones de mantenimiento necesarias para mantener el UAS en condiciones seguras, cubriendo las instrucciones y requisitos de mantenimiento del fabricante del UAS cuando corresponda) .
+
+4. Procedimientos normales;
+
+(El operador del UAS debe completar los siguientes párrafos considerando los elementos enumerados a continuación. Los procedimientos aplicables a todas las operaciones de UAS pueden enumerarse en el párrafo 4.1.)
+
+4.1 Procedimientos generales válidos para todas las operaciones
+
+4.2 Procedimientos propios de una única operación
+
+5. Procedimientos de contingencia
+
+(El operador de UAS debe completar los siguientes párrafos considerando los elementos enumerados a continuación. Los procedimientos aplicables a todas las operaciones de UAS pueden enumerarse en el párrafo 5.1).
+
+5.1 Procedimientos generales válidos para todas las operaciones
+
+5.2 Procedimientos propios de una única operación
+
+6. Procedimientos de emergencia
+
+(El operador del UAS debe definir procedimientos para hacer frente a situaciones de emergencia).
+
+7. Plan de respuesta a emergencias (ERP) (opcional)
+
+8. Seguridad (procedimientos de seguridad a los que se hace referencia en UAS.SPEC.050(a)(ii) y (iii); instrucciones, orientación, procedimientos y responsabilidades sobre cómo implementar los requisitos de seguridad y proteger el UAS de modificaciones no autorizadas, interferencias, etc.]
+
+9. Directrices para minimizar las molestias y el impacto ambiental a que se refiere UAS.SPEC.050(a)(v) ;
+
+10. Procedimientos de notificación de sucesos según el Reglamento (UE) n.º 376/2014. 
+
+11. Procedimientos de mantenimiento de registros (instrucciones sobre registros y bitácoras de los pilotos y otros datos que se consideren útiles para el seguimiento y control de la actividad).
+
+AMC2 UAS.SPEC.030(3)(e) Solicitud de autorización operativa
+
+Decisión ED 2022/002/R
+
+PROCEDIMIENTOS OPERACIONALES CON NIVEL DE ROBUSTEZ ‘MEDIO’ Y ‘ALTO’
+
+1. Alcance de este AMC
+
+1.1 Este AMC aborda los criterios para el nivel medio y alto de robustez de los procedimientos operativos que se requieren bajo las siguientes ODO:
+
+(a) OSO #08: Problema técnico con el UAS — Los procedimientos operativos están definidos, validados y se cumplen ;
+
+(b) OSO #11: Deterioro de los sistemas externos que respaldan las operaciones de UAS — Existen procedimientos para manejar el deterioro de los sistemas externos que respaldan las operaciones de UAS ;
+
+(do) OSO #14: Error humano: los procedimientos operativos están definidos, validados y se cumplen ; y
+
+(d) OSO #21: Condiciones operativas adversas: los procedimientos operativos están definidos, validados y se cumplen .
+
+Estos criterios pueden utilizarse para abordar también los criterios para los niveles medio y alto de robustez de los procedimientos operativos requeridos en virtud de los medios de mitigación, que se definen en el Anexo B del Artículo 11 del AMC1.   
+
+2. Criterios para el nivel de integridad
+
+2.1. Criterio n°1: Definición del procedimiento
+
+2.1.1. El Anexo E del Artículo 11    del AMC1 proporciona los elementos mínimos que los procedimientos operativos deben cubrir adecuadamente para las operaciones previstas.
+
+2.1.2. AMC1 UAS.SPEC.030(3)(e)  sobre la plantilla OM97 para la autorización operacional de operaciones de UAS en la categoría 'específica' y la guía correspondiente en GM1 UAS.SPEC.030(3)(e)  deben seguirse para definir los procedimientos, ya que proporcionan más detalles sobre los elementos a los que se hace referencia en el punto 2.1.1.
+
+2.2. Criterio n.° 2: complejidad del procedimiento
+
+2.2.1. Con base en el criterio SORA de "complejidad de procedimiento" para un nivel bajo de integridad, los procedimientos con un nivel más alto de integridad no deberían ser complejos. Esto implica que la carga de trabajo y/o las interacciones con otras entidades (por ejemplo, gestión del tránsito aéreo (ATM), etc.) de los pilotos remotos y/o otro personal a cargo de tareas esenciales para la operación del UAS deberían limitarse a un nivel que no ponga en peligro su capacidad para seguir adecuadamente los procedimientos.
+
+2.2.2. Los procedimientos deberán validarse de acuerdo con el punto 3.5.
+
+2.3. Criterio n.° 3: Consideración del posible error humano
+
+Se deben desarrollar procedimientos operativos para minimizar los errores humanos:
+
+(a) cada una de las tareas y la secuencia completa de las tareas de un procedimiento deben ser intuitivas, inequívocas y claramente definidas;
+
+(b) Las tareas deben asignarse claramente a los roles y personas pertinentes, asegurando una carga de trabajo equilibrada (véase el punto 2.2); y
+
+(do) Los procedimientos deben abordar adecuadamente la fatiga y el estrés, considerando, entre otros aspectos, lo siguiente: los tiempos de servicio, los descansos regulares, los períodos de descanso, los requisitos de salud y seguridad aplicables en el entorno operacional, los procedimientos de transferencia/toma de control, las responsabilidades y la carga de trabajo.
+
+3. Criterios para el nivel de seguridad
+
+3.1. El propósito del proceso de validación descrito en este AMC es confirmar si los procedimientos operativos propuestos son completos y adecuados para garantizar la realización segura de las operaciones UAS previstas.
+
+3.2. El proceso de validación debe incluir lo siguiente:
+
+(a) una revisión de la integridad de los procedimientos para garantizar que:
+
+(1) se han abordado todos los elementos que se indican en los puntos 2.1.1 y 2.1.2; y
+
+(2) Se han tenido en cuenta todas las referencias pertinentes, incluidas, entre otras:
+
+(i) la reglamentación aplicable;
+
+(ii) los requerimientos de la autoridad competente y/o de otras autoridades o entidades relevantes;
+
+(iii) los requisitos y condiciones locales;
+
+(iv) las prácticas recomendadas disponibles para el tipo de operaciones de UAS previstas;
+
+(v) las instrucciones del fabricante del UAS y de cualquier otro fabricante de equipos UAS, si corresponde;
+
+(vi) las instrucciones y requisitos de los servicios proporcionados externamente que apoyan las operaciones del UAS, si corresponde;
+
+(vii) los resultados de experiencias previas, incluidas pruebas y/o simulaciones como las indicadas en los puntos (c) y (d); y
+
+(viii) normas industriales voluntarias basadas en el consenso;
+
+(b) un juicio experto para evaluar la idoneidad de los procedimientos basándose en:
+
+(1) el(los) objetivo(s) de cada procedimiento;
+
+(2) parámetros/indicadores clave de rendimiento pertinentes y/o evaluación comparativa de opciones, si corresponde;
+
+(3) una evaluación de la complejidad de los procedimientos de conformidad con el punto 2.2; y
+
+(4) una evaluación del efecto de los factores humanos en los procedimientos de conformidad con el punto 2.3;
+
+(do) una prueba de la adecuación de los procedimientos mediante pruebas o ejercicios prácticos para fases de la operación del UAS distintas del vuelo del UA, que involucren al UAS y/o cualquier sistema externo que apoye la operación;
+
+(d) una prueba de la idoneidad de los procedimientos de contingencia y emergencia mediante:
+
+(1) pruebas de vuelo específicas realizadas en una zona con riesgo aéreo y terrestre reducido y/o pruebas de subsistemas representativos; o
+
+(2) simulación, siempre que se demuestre que es válida para el fin previsto con resultados positivos; o
+
+(3) cualquier otro medio aceptable para la autoridad competente que expida la autorización;
+
+(mi) si se selecciona la opción del punto (d)(3), una justificación de la idoneidad de esos medios para demostrar la suficiencia de los procedimientos;
+
+(F) un registro de prueba de la idoneidad de los procedimientos, que incluya al menos:
+
+(1) el nombre y el número de registro del operador del UAS;
+
+(2) la(s) fecha(s) y lugar(es) de las pruebas o simulaciones;
+
+(3) identificación de los medios utilizados, por ejemplo, para pruebas o simulaciones que utilizan UAS reales: la categoría del tipo, el nombre del fabricante y el modelo y número de serie de cada UA utilizado;
+
+(4) una descripción de las pruebas o simulaciones realizadas, incluyendo su propósito, los resultados esperados (incluidos los parámetros/indicadores clave de desempeño, cuando sea pertinente), cómo se llevaron a cabo, los resultados obtenidos y las conclusiones; y
+
+(5) la firma de la persona designada por el operador del UAS para realizar las pruebas o simulaciones;
+
+(gramo) para las operaciones de UAS que requieran un alto nivel de garantía, los procedimientos y las pruebas de vuelo específicas, simulaciones u otros medios aceptables para la autoridad competente, que se indican en el punto 3.2, validados por la autoridad competente que emite la autorización o por una entidad reconocida por dicha autoridad competente.
+
+3.3. Las siguientes condiciones se aplican a las pruebas de vuelo específicas que se indican en el punto 3.2(d)(1):
+
+(a) Se debe identificar la configuración del hardware y software del UAS;
+
+(b) El operador del UAS debe realizar las pruebas de vuelo específicas;
+
+(do) si no se realizan simulaciones como las indicadas en el punto 3.2(d)(2), las pruebas de vuelo específicas deberán cubrir todos los aspectos relevantes de los procedimientos de contingencia y emergencia;
+
+(d) para las operaciones de UAS que requieren un alto nivel de seguridad, las pruebas de vuelo específicas que se realizan para validar los procedimientos y listas de verificación deben cubrir la envolvente de vuelo completa o demostrar ser conservadoras;
+
+(mi) el operador del UAS deberá realizar tantas pruebas de vuelo como se acuerde con la autoridad competente para demostrar la idoneidad de los procedimientos propuestos;
+
+(F) Las pruebas de vuelo específicas deben realizarse en un entorno seguro (reduciendo los riesgos terrestres y aéreos en la mayor medida posible), garantizando al mismo tiempo la representatividad de los resultados de las pruebas para las operaciones UAS previstas; y
+
+(gramo) El operador del UAS debe registrar las pruebas de vuelo como parte de la información que debe registrarse según el punto UAS.SPEC.050(1)(g) , por ejemplo, en un libro de registro, como se indica en AMC1 UAS.SPEC.050(1)(g)  ; dicho registro debe incluir cualquier problema potencial identificado.
+
+3.4. Para garantizar que se cumple el criterio de integridad del punto 2.2, se deberá validar la complejidad de los procedimientos.
+
+3.4.1. Esta validación debe incluir:
+
+(a) un dictamen pericial, tal como se indica en el punto 3.3(b); y
+
+(b) una prueba de la adecuación de los procedimientos, tal y como se indica en los puntos 3.3, letras c) y d).
+
+3.4.2. El operador del UAS debe adoptar un método para evaluar la complejidad de los procedimientos por parte del personal pertinente, es decir, el piloto remoto y/u otro personal encargado de tareas esenciales para la operación del UAS. Ese método debe ser adecuado para evaluar la carga de trabajo que requieren las tareas de cada procedimiento.
+
+Por ejemplo, un método adecuado para evaluar la carga de trabajo del piloto remoto y/o de otro personal a cargo de tareas esenciales para la operación del UAS puede ser la "Escala de Carga de Trabajo de Bedford", que fue concebida como una metodología cualitativa y relativamente simple para calificar la carga de trabajo de los pilotos que está asociada con el diseño de la interfaz hombre-máquina (HMI) de una aeronave. Sin embargo, se considera que esta metodología es lo suficientemente genérica como para ser aplicable también a las tareas asociadas con los procedimientos operativos que deben llevar a cabo los pilotos remotos y/o otro personal a cargo de tareas esenciales para la operación del UAS.
+
+La figura 1 muestra la escala de carga de trabajo de Bedford adaptada a los procedimientos operativos para operaciones de UAS: "piloto" se reemplaza por "miembro de la tripulación remota" (es decir, el piloto remoto u otro personal a cargo de tareas esenciales para la operación de UAS), y "decisión del piloto" se reemplaza por "miembro de la tripulación remota realiza una tarea de procedimiento". Un procedimiento puede incluir una o más tareas.
+
+Figura 1: Escala de carga de trabajo de Bedford adaptada a los procedimientos operativos para operaciones de UAS
+
+AMC3 UAS.SPEC.030(3)(e) Solicitud de autorización operativa
+
+Decisión ED 2022/002/R
+
+PLAN DE RESPUESTA ANTE EMERGENCIAS (ERP) CON NIVEL DE ROBUSTEZ 'MEDIO' Y 'ALTO'
+
+1. Alcance de este AMC
+
+1.1 Este AMC define el contenido de un ERP, así como la metodología para su validación. Puede utilizarse para cumplir con el Criterio n.° 1 (Procedimientos) de Mitigación M3: se ha implementado un ERP, el operador del UAS lo ha validado y es eficaz, según el Anexo B  del Artículo 11 del AMC1 para un nivel de solidez medio y alto.
+
+1.2 La evaluación de riesgos, tal como lo exige el artículo 11  del Reglamento UAS, debe abordar los riesgos de seguridad asociados con la pérdida de control de una operación de UAS, que puede dar lugar a:
+
+(a) lesiones fatales a terceros en el suelo;
+
+(b) lesiones a terceros en el aire; o
+
+(do) Daños a infraestructura crítica.
+
+Nota: Según el punto B.4 del Anexo B  del Artículo 11 del AMC1, la pérdida de control de una operación de UAS corresponde a situaciones en las que los procedimientos de emergencia no habrían proporcionado el efecto deseado, la operación de UAS se encuentra en un estado irrecuperable y:
+
+—      el resultado de la situación depende en gran medida de la providencia; o
+
+—      la situación no pudo manejarse mediante un procedimiento de contingencia; o
+
+—      Existe un peligro grave e inminente de muertes.
+
+1.3. Por tanto, en línea con la evaluación de riesgos, el alcance de este AMC se limita a abordar la respuesta a situaciones de emergencia que se produzcan por la operación del UAS, así como las posibles consecuencias que se indican en el punto 1.2. No obstante, la respuesta a dichas situaciones de emergencia no debe limitarse únicamente al riesgo/daño potencial a terceros sino también al personal del operador del UAS.
+
+1.4. Este AMC no aborda situaciones de emergencia distintas de las mencionadas en el punto 1.3. No obstante, el operador del UAS puede verse obligado a abordar dichas situaciones como parte de la autorización operativa.98 .
+
+2. Propósito del ERP
+
+2.1. El operador de UAS debe, en cooperación con otras partes interesadas, si corresponde, desarrollar, coordinar y mantener un ERP que garantice una transición ordenada y segura del funcionamiento normal a la emergencia y el retorno al funcionamiento normal. El ERP debe incluir las acciones que debe tomar el operador de UAS o las personas especificadas en caso de emergencia, e indicar el tamaño, la naturaleza y la complejidad de las actividades que debe realizar el operador de UAS o las personas especificadas.
+
+2.2. En cuanto a los procedimientos de emergencia, el operador de UAS implementa un ERP para abordar situaciones de emergencia. Sin embargo, un ERP se desarrolla específicamente para:
+
+(a) limitar cualquier efecto agravante de la situación de emergencia;
+
+(b) cumplir las condiciones para alertar a las autoridades y entidades pertinentes.
+
+2.3. El ERP debe contener toda la información necesaria sobre el papel del personal relevante en una emergencia y sobre su respuesta a la misma.
+
+3. Eficacia del ERP
+
+3.1. Para que el ERP sea eficaz, debe:
+
+(a) ser apropiado al tamaño, naturaleza y complejidad de la operación del UAS;
+
+(b) ser fácilmente accesible para todo el personal pertinente y para otras entidades, cuando corresponda;
+
+(do) incluir procedimientos y listas de verificación relevantes para situaciones de emergencia diferentes o específicas;
+
+(d) definir claramente las funciones y responsabilidades del personal pertinente;
+
+(mi) tener datos de contacto de referencia rápida del personal relevante;
+
+(F) ser probados periódicamente mediante ejercicios prácticos en los que participe el personal pertinente; y
+
+(gramo) revisarse periódicamente y actualizarse, cuando sea necesario, para mantener su eficacia.
+
+4. Situaciones de emergencia, activación de respuesta, procedimientos y listas de verificación
+
+4.1. El ERP debe definir los criterios para identificar situaciones de emergencia y para identificar las principales situaciones de emergencia que probablemente aumenten el nivel de daño (efecto de escalada) si no se toman medidas.
+
+4.2. Las situaciones de emergencia identificadas deben incluir al menos aquellas en las que el operador del UAS opera uno o más UA y tienen el potencial de:
+
+(a) dañar a una o más personas;
+
+(b) chocar contra un vehículo terrestre, edificio o instalación donde haya una o más personas que puedan resultar heridas como consecuencia del impacto del UA;
+
+(do) dañar la infraestructura crítica;
+
+(d) iniciar un incendio que pueda propagarse;
+
+(mi) liberar sustancias peligrosas;
+
+(F) chocar contra una aeronave que transporte personas y/o cuyo accidente pudiera dar lugar a una o más de las situaciones enumeradas en los apartados (a) a (e); y
+
+(gramo) provocar que la UA abandone el volumen operacional y vuele más allá de los límites de:
+
+(1) el colchón de riesgo del terreno; y/o
+
+(2) el espacio de amortiguación de riesgo aéreo (si existe), o ingresar al espacio aéreo adyacente donde exista riesgo de colisión con aeronaves tripuladas.
+
+4.3. El ERP debe establecer los criterios para la activación de los respectivos procedimientos de respuesta a emergencias para abordar las situaciones de emergencia identificadas.
+
+4.4. El ERP debe considerar los siguientes principios para priorizar las acciones para responder a una situación de emergencia:
+
+(a) alertar al personal y entidades pertinentes;
+
+(b) proteger la vida de las personas afectadas o en peligro;
+
+(do) prestar primeros auxilios mientras se espera la llegada de los servicios de emergencia, siempre que el personal empleado por el operador del UAS esté cualificado para tal fin;
+
+(d) garantizar la seguridad del personal de respuesta a emergencias;
+
+(mi) abordar los efectos secundarios y poner en marcha acciones para reducirlos (por ejemplo, si el UAS choca en una carretera, advertir a los demás conductores en el tráfico o redirigirlos en consecuencia para evitar que los automóviles choquen con el UAS accidentado);
+
+(F) mantener la situación de emergencia bajo control o contenida;
+
+(gramo) proteger la propiedad;
+
+(o) restablecer la situación normal lo antes posible;
+
+(i) registrar la situación de emergencia y la respuesta a la misma, y ​​preservar evidencia para investigaciones posteriores;
+
+(j) retirar los artículos dañados, a menos que sea necesario mantenerlos intactos para fines de investigación, y restaurar la ubicación de la emergencia;
+
+(k) Informar al personal pertinente;
+
+(yo) preparar cualquier informe o notificación posterior a la emergencia que se requiera; y
+
+(metro) evaluar la eficacia del ERP y actualizarlo, si es necesario.
+
+4.5. Como mínimo, el ERP debe incluir procedimientos para:
+
+(a) una transición ordenada de la fase normal a la fase de respuesta de emergencia;
+
+(b) la asignación de responsabilidades y funciones en situaciones de emergencia (véase el punto 5);
+
+(do) acción coordinada e interacción con otras entidades para responder a la situación de emergencia; y
+
+(d) volver al funcionamiento normal lo antes posible.
+
+4.6. El ERP debe incluir un procedimiento para registrar la información sobre la situación de emergencia y la respuesta posterior. Ese procedimiento también debe contemplar cómo recopilar información de un tercero que notifique una situación de emergencia causada por un UAS del operador del UAS.
+
+4.7. El ERP debe incluir procedimientos para manipular materiales peligrosos en una situación de emergencia, si corresponde.
+
+4.8. El ERP debe incluir listas de verificación que:
+
+(a) sean adecuados a las situaciones de emergencia identificadas, según el punto 4.1;
+
+(b) indicar claramente la secuencia de acciones y el personal responsable de llevarlas a cabo; y
+
+(do) proporcionar los datos de contacto de las principales partes interesadas, según el punto 5.4.
+
+4.9. El contenido del ERP debe mantenerse actualizado y reflejar todos los cambios organizativos u operativos que puedan afectarlo.
+
+5. Funciones, responsabilidades y puntos de contacto clave
+
+5.1. El operador del UAS debe nombrar un gerente de respuesta a emergencias (ERM) que tenga la responsabilidad general de la respuesta a emergencias.
+
+5.2. Si el operador del UAS no es una entidad unipersonal y/o gestiona personal externo en una respuesta de emergencia, el operador del UAS debe establecer un equipo de respuesta a emergencias (ERT) que:
+
+(a) está dirigido por el ERM;
+
+(b) incluye un ERT central que comprende personas con un rol que implica estar directamente involucrado en la respuesta a una situación de emergencia; y
+
+(do) incluye, si corresponde, un ERT de apoyo que incluye miembros del ERT que apoyan al ERT principal en la respuesta a la situación de emergencia.
+
+5.3. El ERP debe proporcionar una delimitación clara de las responsabilidades en una respuesta de emergencia, incluidos los deberes del piloto o pilotos remotos y de cualquier otro personal a cargo de tareas esenciales para la operación del UAS.
+
+5.4. El ERP debe establecer una lista de contactos del personal clave, las autoridades pertinentes y las entidades involucradas en una respuesta de emergencia, que incluya:
+
+(a) los nombres completos, funciones, responsabilidades y datos de contacto del ERM y, si corresponde, de los miembros del ERT, incluido su reemplazo si las personas designadas no están disponibles; y
+
+(b) los nombres completos, funciones, responsabilidades y datos de contacto de las autoridades y entidades pertinentes ajenas al operador de UAS a las que se debe contactar en caso de emergencia; además, se debe indicar el número único europeo de llamada de emergencia «112» como número de contacto de emergencia para las operaciones de UAS que se realicen en cualquiera de los Estados miembros de la AESA y en cualquier otro Estado donde se utilice ese número99 .
+
+5.5. El ERP debe indicar quiénes son las personas responsables de los medios de respuesta a emergencias (véase el punto 6.2) y sus datos de contacto. Las personas responsables deben garantizar que dichos medios estén disponibles y sean utilizables cuando se necesiten.
+
+5.6. Para garantizar una respuesta rápida, el ERM y otros miembros del ERT, si corresponde, deben tener acceso directo a:
+
+(a) las listas de verificación de respuesta a emergencias que se indican en el punto 4.8; y
+
+(b) si no está incluido en las listas de verificación a que se refiere la letra a), la(s) lista(s) de contactos indicadas en el punto 5.4.
+
+6. Medios de respuesta a emergencias
+
+6.1. El ERP debe indicar los medios que utilizará el operador del UAS para responder a una emergencia, que pueden incluir uno o más de los siguientes:
+
+(a) instalaciones, infraestructura y equipamiento;
+
+(b) medios de extinción, por ejemplo, extintores de incendios, bolsas ignífugas para dispositivos electrónicos portátiles (PED);
+
+(do) equipo de protección personal, por ejemplo, ropa protectora, ropa de alta visibilidad, cascos, gafas, guantes;
+
+(d) medios médicos, incluidos botiquines de primeros auxilios;
+
+(mi) medios de comunicación, por ejemplo, teléfonos (fijos y móviles), walkie-talkies, radios de aviación, Internet; y
+
+(F) otros.
+
+6.2. La(s) persona(s) a cargo de los medios de respuesta a emergencias deberán tener un registro actualizado de los medios disponibles que se indican en el punto 6.1, incluyendo su número y estado (por ejemplo, fecha de caducidad de los medios perecederos).
+
+7. Validación de ERP
+
+7.1. Si el operador del UAS es una entidad unipersonal y no gestiona personal externo en una respuesta de emergencia, el operador del UAS debe al menos asegurarse de que:
+
+(a) los procedimientos que se indican en el punto 4 cubren todas las situaciones de emergencia identificadas y que las acciones necesarias se reflejan en la(s) lista(s) de verificación correspondiente(s);
+
+(b) los datos de contacto que figuran en la(s) lista(s) indicada(s) en el punto 5.4 estén actualizados; y
+
+(do) Antes de realizar cualquier operación con UAS se comprueba que los medios de respuesta a emergencias que se indican en el punto 6 están disponibles y, en particular, que los medios de comunicación para alertar a los contactos pertinentes (véase el punto b)) están operativos.
+
+7.2. Si el operador del UAS no es una entidad unipersonal y/o gestiona personal externo en una respuesta de emergencia, además de cumplir con el punto 7.1, el operador del UAS debe realizar un ejercicio de mesa100
+
+a) ejercicios a gran escala;
+
+b) ejercicios de emergencia parciales; y
+
+(c) ejercicios de mesa. que:
+
+(a) se establece de acuerdo con los criterios que se indican en el ERP para ser considerado representativo;
+
+(b) es coherente con el programa de formación ERP;
+
+(do) incluye sesiones en las que los participantes del ejercicio discuten uno o más escenarios de las situaciones de emergencia identificadas, lo que debería incluir a los miembros del ERT pertinentes para cada una de las sesiones; todos los aspectos del ERP deberían cubrirse una vez que se hayan completado todas las sesiones del ejercicio de mesa;
+
+(d) es guiado por el ERM o cualquier otra persona designada por el operador del UAS para actuar como facilitador;
+
+(mi) puede incluir la participación de terceros que estén identificados en el ERP; las condiciones de participación de esos terceros deben indicarse en el ERP; y
+
+(F) Se realiza con la periodicidad que se indica en el ERP.
+
+Sin embargo, si el operador de UAS es una entidad unipersonal y no gestiona personal externo en una respuesta de emergencia, un ejercicio teórico puede no ser apropiado ya que no se requiere la participación de terceros. En tal caso, las condiciones del punto 7.1 se consideran suficientes y proporcionadas al nivel de simplicidad del operador y, en principio, de las operaciones del UAS.
+
+En el caso de operadores de UAS con una estructura más compleja, así como en el caso de operaciones complejas con UAS, puede ser necesario complementar los ejercicios teóricos con ejercicios de emergencia parciales y/o ejercicios a gran escala, incluidos los simulacros correspondientes. Si el nivel de solidez que se requiere o se reclama para el ERP es alto, se necesitan dichos ejercicios y simulacros.
+
+7.3. Si el nivel de robustez del ERP es alto:
+
+(a) el ERP y su eficacia con respecto a la limitación del número de personas en riesgo deben ser validados por la propia autoridad competente o por una entidad designada por ella;
+
+(b) El operador del UAS debe coordinar y acordar el ERP con todos los terceros que estén identificados en el plan; y
+
+(do) La representatividad del ejercicio de simulación se valida por la autoridad competente que emite la autorización o por una entidad designada por dicha autoridad competente.
+
+7.4. Después de seguir los procedimientos que se describen en el ERP en una situación de emergencia real, el operador del UAS debe realizar un análisis de la forma en que se gestionó la emergencia y verificar la efectividad del ERP.
+
+8. Formación en ERP
+
+8.1. El operador del UAS debe proporcionar al personal pertinente, y en particular a los miembros del ERT, capacitación en ERP.
+
+8.2. El operador del UAS debe desarrollar un programa de capacitación que cubra todos los elementos del ERP.
+
+8.3. El operador del UAS debe recopilar y mantener actualizado un registro de la capacitación ERP que complete el personal pertinente.
+
+8.4. La autoridad competente que emite la autorización o una entidad designada por dicha autoridad competente debe verificar las competencias del personal pertinente si el nivel de garantía que se requiere o reclama para el ERP es alto.
+
+GM1 UAS.SPEC.030(3)(e) Solicitud de autorización operativa
+
+Decisión ED 2022/002/R
+
+MANUAL DE OPERACIONES — PLANTILLA
+
+A continuación se presenta una lista no exhaustiva de temas que el operador de UAS debe considerar al compilar algunos capítulos del OM:
+
+'1.2 Sistema de modificación y revisión del MO
+
+(a) Una descripción del sistema para indicar los cambios y de la metodología para registrar las páginas efectivas y las fechas de vigencia; y
+
+(b) Datos de la(s) persona(s) responsable(s) de las revisiones y su publicación.
+
+'2 Descripción de la organización del operador del UAS
+
+(a) La estructura organizativa y las personas designadas. Descripción de la estructura organizativa del operador, incluido un organigrama que muestre los diferentes departamentos, si los hubiera (por ejemplo, operaciones de vuelo/tierra, seguridad operacional, mantenimiento, formación, etc.) y el responsable de cada departamento;
+
+(b) Deberes y responsabilidades del personal directivo; y
+
+(do) Deberes y responsabilidades de los pilotos remotos y otros miembros de la organización involucrados en las operaciones (por ejemplo, operador de carga útil, asistente de tierra, técnico de mantenimiento, etc.).
+
+'3.4 Competencias, deberes y responsabilidades del personal involucrado en las operaciones como el piloto remoto, observador de la UA, VO, supervisor, controlador, gerente de operaciones, etc.
+
+(a) Requisitos teóricos, prácticos (y médicos) para la operación de UAS en cumplimiento de la regulación aplicable;
+
+(b) Programa de entrenamiento y verificación para el personal a cargo de la preparación y/o ejecución de las operaciones de UAS, así como para los VO, cuando aplique;
+
+(do) Expedientes de formación y actualización de cursos; y
+
+(d) Precauciones y directrices relativas a la salud del personal, incluyendo precauciones relativas a las condiciones ambientales en el área de operación (política sobre consumo de alcohol, narcóticos y drogas, somníferos y antidepresivos, medicación y vacunación, fatiga, limitaciones de los períodos de vuelo y de servicio, estrés y descanso, etc.).
+
+'5.1 Procedimientos generales válidos para todas las operaciones:
+
+(a) Considere lo siguiente para minimizar los errores humanos:
+
+(1) una clara distribución y asignación de tareas; y
+
+(2) una lista de verificación interna para verificar que el personal esté realizando correctamente las tareas asignadas.
+
+(b) Consideración del deterioro de los sistemas externos que apoyan la operación de UAS; con el fin de ayudar en la identificación de procedimientos relacionados con el deterioro de los sistemas externos que apoyan la operación de UAS, se recomienda:
+
+(1) identificar los sistemas externos que apoyan la operación;
+
+(2) describir los modos de deterioro de estos sistemas externos que podrían impedir al operador mantener una operación segura del UAS (por ejemplo, pérdida completa del GNSS, deriva del GNSS, problemas de latencia, etc.);
+
+(3) describir los medios establecidos para detectar los modos de deterioro de los sistemas externos; y
+
+(4) describir el(los) procedimiento(s) implementado(s) una vez que se detecta un modo de deterioro de uno de los sistemas externos (por ejemplo, activación de la capacidad de recuperación de emergencia, cambio a control manual, etc.).
+
+(do) Coordinación entre el(los) piloto(s) remoto(s) y el resto del personal;
+
+(d) Métodos para ejercer el control operacional; y
+
+(mi) Preparación y listas de verificación previas al vuelo. Entre ellas, se incluyen los siguientes puntos:
+
+(1) El lugar de la operación:
+
+(i) la evaluación del área de operación y el área circundante, incluyendo, por ejemplo, el terreno y los posibles obstáculos y obstrucciones para mantener una VLOS del UA, el posible sobrevuelo de personas no involucradas, el posible sobrevuelo de infraestructura crítica (una evaluación de riesgos de la infraestructura crítica debe realizarse en cooperación con la organización responsable de la infraestructura, ya que son ellos quienes mejor conocen las amenazas)
+
+(ii) la evaluación del entorno y del espacio aéreo circundantes, incluida, por ejemplo, la proximidad de zonas restringidas y las posibles actividades de otros usuarios del espacio aéreo;
+
+(iii) cuando se utilicen VO de UA, la evaluación de la conformidad entre la visibilidad y el alcance planificado, la posible obstrucción del terreno y las posibles brechas entre las zonas cubiertas por cada uno de los VO de UA; y
+
+(iv) la clase de espacio aéreo y otras operaciones de aeronaves (aeródromos locales o sitios de operación, restricciones, permisos).
+
+(2) Condiciones ambientales y climáticas:
+
+(i) condiciones ambientales y climáticas adecuadas para llevar a cabo la operación del UAS; y
+
+(ii) Métodos para obtener previsiones meteorológicas.
+
+(3) Coordinación con terceros, si aplica (por ejemplo, solicitudes de permisos adicionales a diversas agencias y al ejército cuando se opera, por ejemplo, en áreas ambientalmente protegidas, áreas restringidas a vuelos fotográficos, cerca de infraestructura crítica, en áreas urbanas, situaciones de emergencia, etc.);
+
+(4) el número mínimo de miembros de la tripulación necesarios para realizar la operación y sus responsabilidades;
+
+(5) los procedimientos de comunicación necesarios entre el personal a cargo de tareas esenciales para la operación del UAS, y con partes externas cuando sea necesario;
+
+(6) cumplimiento de cualquier requisito específico de las autoridades pertinentes en el área de operaciones prevista, incluidos los relacionados con la seguridad, la privacidad, la protección de datos y del medio ambiente, el uso del espectro de RF; considerando también las operaciones transfronterizas (requisitos locales específicos) cuando corresponda;
+
+(7) las medidas de mitigación de riesgos necesarias establecidas para garantizar que la operación se lleve a cabo de manera segura (por ejemplo, un área terrestre controlada, asegurar el área terrestre controlada para evitar que terceros ingresen al área durante la operación y garantizar la coordinación con las autoridades locales cuando sea necesario, etc.); y
+
+(8) procedimientos para verificar que el UAS está en condiciones de realizar de forma segura la operación prevista (por ejemplo, actualización de datos de zonas geográficas para sistemas de geoconciencia o geocercado; definición y carga de procedimientos automáticos de contingencia en caso de pérdida de enlace; estado de la batería, carga y aseguramiento de la carga útil;).
+
+(F) Procedimientos de lanzamiento y recuperación;
+
+(gramo) Procedimientos de vuelo (instrucciones de operación de la UA (referencia o duplicación de información del manual del fabricante); instrucciones sobre cómo mantener la UA dentro de la geografía de vuelo, cómo determinar la mejor ruta de vuelo; obstáculos en el área, altura; entornos congestionados, mantener la UA en el volumen planificado);
+
+(o) Procedimientos posteriores al vuelo, incluidas las inspecciones para verificar el estado del UAS;
+
+(i) Procedimientos para la detección de aeronaves potencialmente conflictivas por parte del piloto remoto y, cuando lo requiera el operador del UAS, los VO del UA; y
+
+(j) Mercancías peligrosas (limitaciones en su naturaleza, cantidad y embalaje; aceptación antes de la carga, inspección de los paquetes para detectar cualquier evidencia de fugas o daños).
+
+'5.2 'Procedimientos propios de una misma operación'
+
+(a) Procedimientos para hacer frente a la salida de la UA de la 'geografía de vuelo' deseada;
+
+(b) Procedimientos para hacer frente a la entrada de UA en el volumen de 'contención';
+
+(do) Procedimientos para hacer frente a la entrada de personas no involucradas en el área terrestre controlada, si corresponde;
+
+(d) Procedimientos para hacer frente a condiciones operativas adversas (por ejemplo, en caso de que se produzca formación de hielo durante la operación, si la operación no está aprobada para condiciones de formación de hielo);
+
+(mi) Procedimientos para hacer frente al deterioro de los sistemas externos que apoyan la operación. Con el fin de ayudar a identificar adecuadamente los procedimientos relacionados con el deterioro de los sistemas externos que apoyan la operación de UAS, se recomienda:
+
+(1) identificar los sistemas externos que apoyan la operación;
+
+(2) describir los modos de deterioro de estos sistemas externos que podrían impedir al operador mantener una operación segura del UAS (por ejemplo, pérdida completa del GNSS, deriva del GNSS, problemas de latencia, etc.);
+
+(3) describir los medios establecidos para detectar los modos de deterioro de los sistemas externos; y
+
+(4) describir el(los) procedimiento(s) implementado(s) una vez que se detecta un modo de deterioro de uno de los sistemas externos (por ejemplo, activación de la capacidad de recuperación de emergencia, cambio a control manual, etc.).
+
+(F) Esquema de desconexión de conflictos (es decir, los criterios que se aplicarán para la decisión de evitar el tráfico entrante). En los casos en que la detección la realicen los VO de la UA, la fraseología que se utilizará.
+
+'6 'Procedimientos de emergencia'
+
+(a) Procedimientos para evitar o, al menos, minimizar los daños a terceros en el aire o en tierra. En relación con el riesgo aéreo, una estrategia de evitación para minimizar el riesgo de colisión con otro usuario del espacio aéreo (en particular, una aeronave con personas a bordo); y
+
+(b) Procedimientos para la recuperación de emergencia de la UA (por ejemplo, aterrizaje inmediato, finalización del vuelo con FTS o choque/salpicadura controlado, etc.).
+
+'7. Plan de respuesta a emergencias (PRE)
+
+Consulte AMC3 UAS.SPEC.030(3)(e)  .
+
+UAS.SPEC.040 Expedición de una autorización operativa
+
+Reglamento (UE) 2020/639
+
+(1) Al recibir una solicitud de conformidad con el punto UAS.SPEC.030 , la autoridad competente expedirá, sin demora indebida, una autorización operativa de conformidad con el artículo 12 cuando concluya que la operación cumple las siguientes condiciones:
+
+(a) se proporciona toda la información de acuerdo con el punto (3) del punto UAS.SPEC.030 ;
+
+(b) Existe un procedimiento para la coordinación con el proveedor de servicios pertinente para el espacio aéreo si toda la operación, o parte de ella, se va a realizar en espacio aéreo controlado.
+
+(2) La autoridad competente especificará en la autorización operativa el alcance exacto de la autorización de conformidad con el artículo 12 .
+
+AMC1 UAS.SPEC.040(1) Autorización operativa
+
+Decisión ED 2022/002/R
+
+MODELO DE AUTORIZACIÓN OPERACIONAL
+
+La autoridad competente deberá expedir la autorización de explotación conforme al siguiente formato:
+
+	
+
+Autorización operativa para la categoría 'específica'
+	
+
+1. Autoridad que emite la autorización
+
+1.1 1 Autoridad emisora
+	
+
+ 
+
+1.2 Punto de contacto
+
+Nombre
+
+Teléfono
+
+Correo electrónico
+	
+
+ 
+
+2. Datos del operador del UAS
+
+2.1 Número de registro del operador de UAS
+	
+
+ 
+	
+
+ 
+	
+
+ 
+
+2.2 Nombre del operador del UAS
+	
+
+ 
+
+2.3 Punto de contacto
+
+Nombre
+
+Teléfono
+
+Correo electrónico
+	
+
+ 
+
+3. Operación autorizada
+
+3.1 Ubicaciones autorizadas
+	
+
+ 
+
+3.2 Extensión del área adyacente
+	
+
+____ kilómetros
+
+3.3 Referencia y revisión de la evaluación de riesgos
+	
+
+Versión de SORA __  PDRA # __-__  otro _________
+
+3.4 Nivel de seguridad e integridad
+	
+
+ 
+
+3.5 Tipo de operación
+	
+
+VLOS           BVLOS         
+
+3.6 Transporte de mercancías peligrosas
+	
+
+Sí              No         
+
+3.7 Caracterización del riesgo del terreno
+	
+
+3.7.1 Área operativa
+	
+
+ 
+
+3.7.2 Área adyacente
+	
+
+ 
+
+3.8 Mitigaciones de riesgos terrestres
+	
+
+3.8.1 Mitigaciones estratégicas
+	
+
+No              Sí, bajo       Sí, mediano   Sí, alto   
+
+3.8.2 Planificación de recursos empresariales (ERP)
+	
+
+No              Sí, bajo       Sí, mediano   Sí, alto   
+
+3.9 Límite de altura del volumen operacional
+	
+
+_____ m (______ pies)
+
+3.10 Nivel de riesgo residual del aire
+	
+
+3.10.1 Volumen operacional
+	
+
+Arco-a        Arco-b            Arco-c                Arco-d
+
+3.10.2. Volumen adyacente
+	
+
+Arco-a        Arco-b            Arco-c                Arco-d
+
+3.11 Mitigaciones del riesgo aéreo
+	
+
+3.11.1 Mitigaciones estratégicas
+	
+
+No              Sí             
+
+En caso afirmativo, describa _________________
+
+3.11.2 Métodos de mitigación táctica
+	
+
+ 
+
+3.12 Nivel de contención alcanzado
+	
+
+Básico          Mejorado           
+
+3.13 Competencia de piloto remoto
+	
+
+ 
+
+3.14 Competencia del personal, distinto del piloto remoto, esencial para la seguridad de la operación
+	
+
+ 
+
+3.15 Tipo de eventos que deben notificarse a la autoridad competente (además de los requeridos por el Reglamento (UE) n.º 376/2014  )
+	
+
+ 
+
+3.16 Seguro
+	
+
+No             Sí             
+
+3.17 Referencia del manual de operaciones
+	
+
+ 
+
+3.18 Referencia del archivo de evidencia de cumplimiento
+	
+
+ 
+
+3.19 Observaciones/limitaciones adicionales
+	
+
+ 
+
+4. Datos de los UAS autorizados
+
+4.1 Fabricante
+	
+
+ 
+	
+
+4.2 Modelo
+	
+
+ 
+
+4.3 Tipo de UAS
+	
+
+AviónHelicóptero
+
+MultirotorHíbrido/VTOL
+
+Más ligero que el aire / otro
+	
+
+4.4 Dimensiones características máximas
+	
+
+_____ m
+
+4.5 Masa de despegue
+	
+
+_____ kilos
+	
+
+4.6 Velocidad máxima
+	
+
+_____ m/s (_____ kt)
+
+4.7 Requisitos técnicos adicionales
+	
+
+ 
+
+4.8 Número de serie o, en su caso, marca de registro UA
+	
+
+ 
+
+4.9 Número de certificado de tipo (TC) o informe de verificación de diseño, si se requiere
+	
+
+ 
+
+4.10 Número del certificado de aeronavegabilidad (CofA), si se requiere
+	
+
+ 
+
+4.11 Número del certificado de ruido, si se requiere
+	
+
+ 
+
+4.12 Mitigación para reducir el efecto del impacto sobre el suelo
+	
+
+No         Sí, bajo       Sí, mediano       Sí, alto
+
+Necesario para reducir el riesgo del terreno    Sí       No
+
+4.13 Requisitos técnicos para la contención
+	
+
+Básico                                 Mejorado
+
+5. Observaciones
+
+ 
+
+6. Autorización operativa
+
+____________ (nombre del operador de UAS) está autorizado a realizar operaciones de UAS con los UAS definidos en la Sección 4 y de acuerdo con las condiciones y limitaciones definidas en la Sección 3, siempre que cumpla con esta autorización operativa, con el Reglamento (UE) 2019/947 y con cualquier reglamento nacional y de la Unión aplicable relacionado con la privacidad, la protección de datos, la responsabilidad, los seguros, la seguridad y la protección del medio ambiente.
+
+6.1 Número de autorización operativa
+	
+
+ 
+
+6.2 Fecha de caducidad
+	
+
+DD/MM/AAAA
+
+Fecha
+
+DD/MM/AAAA
+	
+
+Firma y sello
+								
+
+Instrucciones para rellenar el formulario de autorización de explotación
+
+1.1 Nombre de la autoridad competente que emite la autorización de operación, incluyendo el nombre del Estado.
+
+1.2 Datos de contacto del personal de la autoridad competente responsable del fichero.
+
+2.1 Número de registro del operador de UAS de conformidad con el artículo 14  del Reglamento UAS.
+
+2.2 Nombre del operador de UAS, tal como está registrado en la base de datos de registro de operadores de UAS.
+
+2.3 Datos de contacto del responsable de la operación del UAS, encargado de responder posibles preguntas operativas planteadas por la autoridad competente.
+
+3.1 Ubicación(es) en las que el operador del UAS está autorizado a operar. La identificación de la(s) ubicación(es) debe incluir el volumen operativo completo y el margen de riesgo terrestre (la línea roja en la Figura 2). Dependiendo del riesgo terrestre y aéreo inicial y de la aplicación de medidas de mitigación, la(s) ubicación(es) pueden ser "genéricas" o "precisas" (consulte GM2 UAS.SPEC.030(2)  ). Cuando la operación del UAS se realiza en un EM distinto del Estado de registro, la autoridad competente del EM de registro debe especificar la(s) ubicación(es) solo después de recibir la confirmación del Estado de operación, de acuerdo con el Artículo 13  del Reglamento UAS.
+
+Figura 2 — Área operativa y zona de amortiguamiento de riesgos del terreno
+
+3.2 Proporcionar la distancia máxima en km a considerar para el área adyacente, a partir de los límites del buffer de riesgo del suelo.
+
+3.3 Seleccione una de las tres opciones. Si se utiliza el SORA, indique la versión. En caso de que se utilice un PDRA, indique el número y su revisión. En caso de que se utilice una metodología de evaluación de riesgos distinta al SORA, proporcione su referencia. En este último caso, el operador de UAS debe demostrar que la metodología cumple con el artículo 11  del Reglamento UAS.
+
+3.4 Si la metodología de riesgo utilizada es la SORA, indicar el SAIL final de la operación, en caso contrario la información equivalente proporcionada por la metodología de evaluación de riesgos utilizada.
+
+3.5 Seleccione una de las dos opciones.
+
+3.6 Seleccione una de las dos opciones.
+
+3.7 Caracterizar el riesgo terrestre (es decir, densidad de población sobrevolada, expresada en personas por km2 , si está disponible, o 'área terrestre controlada', 'área escasamente poblada', 'área poblada', 'concentraciones de personas') tanto para el área operativa como para el área adyacente.
+
+3.8.1 Seleccione una de las cuatro opciones. En caso de que la evaluación de riesgos se base en el SORA, este consiste en la mitigación M1.
+
+3.8.2 Seleccione una de las cuatro opciones. En caso de que la evaluación de riesgos se base en el SORA, este consiste en la mitigación M3.
+
+3.9. Insertar la altitud máxima de vuelo, expresada en metros y pies entre paréntesis, del volumen operacional aprobado (añadiendo el margen de riesgo aéreo, si corresponde) utilizando la referencia AGL cuando el límite superior sea inferior a 150 m (492 ft), o utilizar la referencia MSL cuando el límite superior sea superior a 150 m (492 ft).
+
+3.10 Seleccione una de las cuatro opciones.
+
+3.11.1 Seleccione una de las dos opciones.
+
+3.11.2 Describa los métodos de mitigación táctica que aplicará el operador del UAS.
+
+3.12 Seleccione una de las dos opciones.
+
+3.13 Especifique el tipo de certificado de piloto remoto, si es necesario; en caso contrario, indique 'Declarado'.
+
+3.14 Especifique el tipo de certificado para el personal, distinto del piloto remoto, esencial para la seguridad de la operación, si se requiere; en caso contrario, indique 'Declarado'.
+
+3.15 Enumere el tipo de eventos que el operador de UAS debe comunicar a la autoridad competente, además de los requeridos por el Reglamento (UE) n.º 376/2014  , si corresponde.
+
+3.16 Seleccione una de las dos opciones.
+
+3.17 Indique el número de identificación y revisión del OM.
+
+3.18 Indique la identificación del archivo de evidencia de cumplimiento y el número de revisión.
+
+3.19 Limitaciones adicionales definidas por la autoridad competente.
+
+4. En el formulario solo se deben identificar las características/funciones del UAS que se requieren para la operación (por ejemplo, en caso de que el UAS califique para una contención mejorada pero la operación requiera una contención básica y el operador haya desarrollado procedimientos consistentes, se debe marcar la contención básica).
+
+4.1 Nombre del fabricante del UAS.
+
+4.2 Modelo del UAS según lo definido por el fabricante.
+
+4.3 Seleccione una de las cinco opciones.
+
+4.4 Indique las dimensiones máximas de la UA en metros (por ejemplo, para aviones: la longitud de la envergadura; para helicópteros: el diámetro de las hélices; para multirotores: la distancia máxima entre las puntas de dos hélices opuestas) tal como se utilizan en la evaluación de riesgos para identificar el riesgo en tierra.
+
+4.5 Indique el valor máximo, expresado en kg, de la masa de despegue (TOM) del UA, con el que se puede operar el UAS. Todos los vuelos deben realizarse sin superar esa TOM. La TOM puede ser diferente (pero no superior) a la MTOM definida por el fabricante del UAS.
+
+4.6 Velocidad máxima de crucero, expresada en m/s y kt entre paréntesis, según se define en las instrucciones del fabricante.
+
+4.7 Enumere cualquier requisito técnico adicional establecido por la autoridad competente.
+
+4.8 Número de serie (SN) único del UA definido por el fabricante según la norma ANSI/CTA‑2063‑A‑2019, Small Unmanned Aerial Systems Serial Numbers , 2019, o la marca de registro del UA si el UA está registrado. En el caso de UAS de fabricación privada o UAS no equipados con un SN único, inserte el SN único del sistema de identificación remota.
+
+4.9 Incluya el número TC de EASA o el número de informe de verificación de diseño de UAS emitido por EASA, según lo requiera la autoridad competente.
+
+4.10 Si se requiere un UAS con un TC EASA, el UAS debe tener un certificado de aeronavegabilidad (CofA) y la autoridad competente debe exigir el cumplimiento de las normas de aeronavegabilidad continua.
+
+4.11 Si se requiere un UAS con un TC EASA, el UAS debe tener un certificado de ruido.
+
+4.12 Seleccione una de las cuatro opciones de la primera fila. En caso de que la evaluación de riesgos se base en el SORA, este consiste en la mitigación M2. Incluso si el UAS puede estar equipado con dicho sistema, esta mitigación puede no ser necesaria en la operación para reducir el riesgo terrestre. En este caso, en la segunda fila seleccione 'NO'. Si la mitigación se utiliza en cambio para reducir el riesgo terrestre, seleccione 'SÍ' y el operador está obligado a incluir en el OM los procedimientos relacionados.
+
+4.13 Seleccione una de las dos opciones.
+
+5 Campo de texto libre para añadir cualquier observación relevante.
+
+6.1 Número de referencia de la autorización de funcionamiento, expedido por la autoridad competente. El número deberá tener el siguiente formato:
+
+NNN-OAT-xxxxx/aaa
+
+Dónde:
+
+— «NNN» es el código ISO 3166 Alpha-3 del Estado miembro que expide la autorización operativa;
+
+— 'OAT' es un campo fijo que significa 'autorización operativa';
+
+— 'xxxxx' son hasta 12 caracteres alfanuméricos que definen el número de autorización operativa; y
+
+— 'yyy' son 3 caracteres alfanuméricos que definen el número de revisión de la autorización operativa; cada modificación de la autorización operativa determinará un nuevo número de revisión.
+
+6.2 La duración de la autorización operativa puede ser ilimitada; en este caso, indique “Ilimitada”. La autorización será válida mientras el operador de UAS cumpla con los requisitos pertinentes del Reglamento UAS y con las condiciones definidas en la autorización operativa.
+
+Nota 1: En la sección 4, se puede incluir más de un UAS. Si es necesario, los campos pueden estar duplicados.
+
+Nota 2: La firma y el sello podrán facilitarse en formato electrónico. El código de respuesta rápida (QR) deberá proporcionar el enlace a la base de datos nacional en la que se almacena la autorización operativa.
+
+GM1 UAS.SPEC.040(1) Autorización operativa
+
+Decisión ED 2019/021/R
+
+MODELO DE AUTORIZACIÓN OPERACIONAL
+
+Para facilitar el reconocimiento mutuo en casos de operaciones transfronterizas, la autoridad competente deberá elaborar una versión en inglés de la autorización operativa.
+
+UAS.SPEC.050 Responsabilidades del operador del UAS
+
+Reglamento de Ejecución (UE) 2021/1166 de la Comisión
+
+(1) El operador del UAS deberá cumplir con todo lo siguiente:
+
+(a) establecer procedimientos y limitaciones adaptados al tipo de operación prevista y al riesgo involucrado, incluyendo:
+
+(i) procedimientos operativos para garantizar la seguridad de las operaciones;
+
+(ii) procedimientos para garantizar que se cumplan los requisitos de seguridad aplicables a la zona de operaciones en la operación prevista;
+
+(iii) medidas de protección contra interferencias ilícitas y accesos no autorizados;
+
+(iv) procedimientos para garantizar que todas las operaciones se realizan de conformidad con el Reglamento (UE) 2016/679 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos. En particular, llevará a cabo una evaluación de impacto de la protección de datos, cuando así lo exija la Autoridad Nacional de Protección de Datos en aplicación del artículo 35 del Reglamento (UE) 2016/679;
+
+(v) directrices para que sus pilotos remotos planifiquen las operaciones de UAS de una manera que minimice las molestias, incluido el ruido y otras molestias relacionadas con las emisiones, a las personas y los animales.
+
+(b) designar un piloto remoto para cada vuelo o, en el caso de operaciones autónomas, garantizar que durante todas las fases del vuelo, las responsabilidades y tareas, especialmente las definidas en los puntos (2) y (3) del punto UAS.SPEC.060, se asignen adecuadamente de conformidad con los procedimientos establecidos de conformidad con el punto (a);
+
+(do) garantizar que todas las operaciones utilicen eficazmente y apoyen el uso eficiente del espectro radioeléctrico a fin de evitar interferencias perjudiciales;
+
+(d) garantizar que antes de realizar operaciones, los pilotos remotos cumplan con todas las condiciones siguientes:
+
+(i) tener la competencia para realizar sus tareas de acuerdo con la formación aplicable identificada por la autorización operativa o, si se aplica el punto UAS.SPEC.020 , por las condiciones y limitaciones definidas en el escenario estándar apropiado que figura en el Apéndice 1  o según lo definido por el LUC;
+
+(ii) seguir una formación de piloto a distancia que se basará en competencias e incluirá las competencias establecidas en el apartado 2 del artículo 8 :
+
+(iii) seguir el entrenamiento de piloto remoto, según lo definido en la autorización operacional, para las operaciones que requieran dicha autorización, se llevará a cabo en cooperación con una entidad designada por la autoridad competente;
+
+(iv) seguir el entrenamiento de piloto remoto para las operaciones bajo declaración que se realizarán de conformidad con las medidas de mitigación definidas por el escenario estándar;
+
+(v) han sido informados sobre el manual de operaciones del operador del UAS, si así lo exige la evaluación de riesgos y los procedimientos establecidos de conformidad con el punto (a);
+
+(vi) obtener información actualizada pertinente a la operación prevista sobre cualquier zona geográfica definida de conformidad con el artículo 15  ;
+
+(mi) garantizar que el personal encargado de tareas esenciales para la operación del UAS, aparte del propio piloto remoto, cumpla con todas las condiciones siguientes:
+
+(i) haber completado la capacitación en el trabajo desarrollada por el operador;
+
+(ii) han sido informados sobre el manual de operaciones del operador del UAS, si así lo requiere la evaluación de riesgos, y sobre los procedimientos establecidos de conformidad con el punto (a);
+
+(iii) han obtenido información actualizada pertinente a la operación prevista sobre cualquier zona geográfica definida de conformidad con el artículo 15  ;
+
+(F) realizar cada operación dentro de las limitaciones, condiciones y medidas de mitigación definidas en la declaración o especificadas en la autorización operativa;
+
+(gramo) mantener y mantener un registro actualizado de:
+
+(i) todas las cualificaciones y cursos de formación pertinentes completados por el piloto remoto y el resto del personal encargado de tareas esenciales para la operación del UAS y por el personal de mantenimiento, durante al menos 3 años después de que dichas personas hayan dejado de trabajar en la organización o hayan cambiado de puesto en la organización;
+
+(ii) las actividades de mantenimiento realizadas en el UAS durante un mínimo de 3 años;
+
+(iii) la información sobre las operaciones de UAS, incluidos los sucesos técnicos u operativos inusuales y otros datos requeridos por la declaración o la autorización operativa durante un mínimo de 3 años;
+
+(o) utilizar UAS que, como mínimo, estén diseñados de tal manera que un posible fallo no haga que el UAS vuele fuera del volumen de operación o provoque una muerte. Además, las interfaces hombre-máquina deberán ser tales que minimicen el riesgo de error del piloto y no provoquen una fatiga irrazonable;
+
+(i) Mantener el UAS en condiciones adecuadas para una operación segura mediante:
+
+(i) como mínimo, definir instrucciones de mantenimiento y emplear personal de mantenimiento adecuadamente capacitado y calificado; y
+
+(ii) cumpliendo con el punto UAS.SPEC.100 , si se requiere;
+
+(iii) utilizando una aeronave no tripulada diseñada para minimizar el ruido y otras emisiones, teniendo en cuenta el tipo de operaciones previstas y las zonas geográficas en las que el ruido y otras emisiones de la aeronave son motivo de preocupación.
+
+(j) establecer y mantener una lista actualizada de los pilotos remotos designados para cada vuelo;
+
+(k) establecer y mantener una lista actualizada del personal de mantenimiento empleado por el operador para llevar a cabo actividades de mantenimiento; y
+
+(yo) Asegúrese de que cada aeronave no tripulada individual esté equipada con:
+
+(i) al menos una luz intermitente verde para que la aeronave no tripulada sea visible durante la noche, y
+
+(ii) un sistema de identificación remota activo y actualizado.
+
+AMC1 UAS.SPEC.050(1) Responsabilidades del operador del UAS
+
+Decisión ED 2019/021/R
+
+PROCEDIMIENTOS OPERACIONALES
+
+(a) El operador del UAS debe desarrollar procedimientos según lo requiera el escenario estándar (STS) o la autorización operacional.
+
+(b) Si un operador de UAS emplea más de un piloto remoto, el operador de UAS debe:
+
+(1) desarrollar procedimientos para las operaciones de UAS con el fin de coordinar las actividades entre sus empleados; y
+
+(2) Compilar y mantener una lista de su personal y sus funciones asignadas.
+
+(do) El operador del UAS debe asignar funciones y responsabilidades de acuerdo con el nivel de autonomía del UAS durante la operación.
+
+AMC1 UAS.SPEC.050(1)(a) Responsabilidades del operador del UAS
+
+Decisión ED 2019/021/R
+
+PROCEDIMIENTOS OPERACIONALES
+
+El operador del UAS debe desarrollar procedimientos operativos basados ​​en las recomendaciones del fabricante, si están disponibles.
+
+Cuando se requiere que el operador del UAS desarrolle un OM de conformidad con el punto UAS.SPEC.030(3)(e) , los procedimientos deben incluirse en ese manual.
+
+GM1 UAS.SPEC.050(1)(a)(iv) Responsabilidades del operador del UAS
+
+Decisión ED 2019/021/R
+
+PROCEDIMIENTOS PARA GARANTIZAR QUE TODAS LAS OPERACIONES CUMPLEN EL REGLAMENTO (UE) 2016/679 RELATIVO A LA PROTECCIÓN DE LAS PERSONAS FÍSICAS EN LO QUE RESPECTA AL TRATAMIENTO DE DATOS PERSONALES Y A LA LIBRE CIRCULACIÓN DE ESTOS DATOS
+
+El operador del UAS es responsable de cumplir con todas las normas nacionales y de la Unión Europea aplicables, en particular con respecto a la privacidad, protección de datos, responsabilidad, seguros, seguridad y protección del medio ambiente.
+
+Este GM tiene el propósito de proporcionar orientación al operador de UAS para ayudarlo a identificar y describir los procedimientos para garantizar que las operaciones de UAS cumplan con el Reglamento (UE) 2016/679 sobre la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de dichos datos.
+
+Descripción de los procedimientos establecidos por el operador del UAS para garantizar que la operación del UAS cumple con el Reglamento (UE) 2016/679
+
+1. Identificar los riesgos de privacidad 1 que la operación prevista puede crear
+
+ 
+
+ 
+
+ 
+
+2. Defina su rol con respecto a la recopilación y procesamiento de datos personales
+
+  Soy el (co) responsable del tratamiento de datos    Soy el encargado (conjunto) del tratamiento de datos
+
+3. Evaluación de impacto sobre la protección de datos (EIPD)
+
+¿Ha evaluado la necesidad de realizar una evaluación de impacto sobre la protección de datos (EIPD)? Sí    No 
+
+En caso afirmativo, ¿tiene que realizar una evaluación de impacto sobre la protección de datos? Sí    No  - En caso afirmativo, ¿realizó una evaluación de impacto sobre la protección de datos? Sí    No 
+
+4. Describa las medidas que está tomando para garantizar que los interesados ​​sean conscientes de que sus datos pueden ser recopilados 6
+
+ 
+
+ 
+
+ 
+
+5. Describa las medidas que está tomando para minimizar los datos personales que está recopilando o para evitar la recopilación de datos personales 7
+
+ 
+
+ 
+
+ 
+
+6. Describir el procedimiento establecido para almacenar los datos personales y limitar el acceso a los mismos
+
+ 
+
+ 
+
+ 
+
+7. Describa las medidas adoptadas para garantizar que los interesados ​​puedan ejercer su derecho de acceso, corrección, oposición y supresión
+
+ 
+
+ 
+
+ 
+
+8. Información adicional
+
+ 
+
+ 
+
+ 
+
+Notas:
+
+1. Para obtener orientación sobre la identificación de los riesgos de privacidad de su operación, consulte:
+
+—      Curso de formación en línea DR PRO (el enlace no está disponible temporalmente) : Módulo 1 — Riesgos de privacidad en contexto; y
+
+—      Guía de privacidad por diseño de DR PRO : Riesgos y salvaguardas de la privacidad en la fabricación de drones (página 10).
+
+2. Para obtener más información sobre las definiciones de datos personales , consulte:
+
+—      Curso de formación en línea DR PRO (el enlace no está disponible temporalmente) : Módulo 2 – ¿Qué son los datos personales? y
+
+—      Código de conducta de privacidad de DR PRO : 3. Glosario.
+
+«Responsable del tratamiento de datos» significa que usted toma decisiones sobre qué datos personales se recopilan y cómo se recopilan, procesan y almacenan.
+
+'Encargado del tratamiento de datos' significa que usted sigue instrucciones de otra entidad sobre la recopilación, el procesamiento y el almacenamiento de datos personales.
+
+Para obtener más información sobre su posible función como responsable o encargado del tratamiento de datos , puede consultar:
+
+—      Curso de formación en línea DR PRO (el enlace no está disponible temporalmente) : Módulo 2 – Roles de protección de datos; y
+
+—      Código de Conducta de Privacidad de DR PRO para las responsabilidades de los responsables del tratamiento de datos.
+
+3. Para obtener más información sobre cuándo y cómo realizar evaluaciones de impacto de protección de datos, consulte:
+
+—      Plantilla de evaluación de impacto de la protección de datos DR PRO
+
+4. Para obtener más información sobre cómo informar a los interesados ​​sobre sus actividades puede consultar:
+
+—      Código de conducta de privacidad de DR PRO : 4.3.2 Actuar de forma visible y transparente;
+
+—      Curso de formación en línea DR PRO (el enlace no está disponible temporalmente) : Módulo 3 – Realice su operación; y
+
+—      Lista de verificación previa al vuelo de DR PRO (el enlace no está disponible temporalmente)
+
+5. Para obtener más información sobre el principio de minimización de datos , consulte:
+
+—      Código de conducta de privacidad de DR PRO : 4.3.1 Minimizar el impacto en la privacidad de las personas y la protección de datos;
+
+—      Guía de privacidad por diseño de DR PRO : funciones de software para mejorar la privacidad de los drones; y
+
+—      Curso de formación en línea DR PRO (el enlace no está disponible temporalmente) : Módulo 3 – Estrategias de mitigación de riesgos.
+
+6. Para obtener orientación sobre el almacenamiento seguro y el acceso a los datos personales, consulte:
+
+—      Código de conducta de privacidad de DR PRO : 4.4.2 Manejar los datos de forma segura;
+
+—      Curso de formación en línea DR PRO (el enlace no está disponible temporalmente) : Módulo 2 – ¿Cómo deben manejarse los datos personales? y
+
+—      Guía de privacidad por diseño de DR PRO : funciones del software para mejorar la privacidad de los drones.
+
+7. Para obtener más información sobre los derechos de los interesados , consulte:
+
+—      Código de conducta de privacidad de DR PRO : 4.3.3 Respetar los derechos de las personas; y
+
+—      Curso de formación online DR PRO (el enlace no está disponible temporalmente) : Módulo 2 – ¿Cómo se debe tratar a las personas?
+
+GM1 UAS.SPEC.050(1)(b)   Responsabilidades del operador del UAS
+
+Decisión ED 2019/021/R
+
+NIVEL DE AUTONOMÍA Y DIRECTRICES PARA LA INTERACCIÓN ENTRE HUMANOS Y AUTONOMÍA
+
+El concepto de autonomía, sus niveles y las interacciones entre los sistemas autónomos y los humanos se están debatiendo actualmente en diversos ámbitos (no solo en la aviación), y aún no se ha llegado a un entendimiento común. Por tanto, se proporcionarán orientaciones una vez que este concepto esté maduro y sea aceptado a nivel mundial.
+
+Sin embargo, la evaluación de riesgos de las operaciones autónomas debe garantizar, como en cualquier otra operación, que el riesgo se mitigue a un nivel aceptable.
+
+Además, se espera que las operaciones autónomas o con un alto nivel de autonomía estén sujetas a autorización y no estén cubiertas por los STS hasta que se adquiera suficiente experiencia.
+
+AMC1 UAS.SPEC.050(1)(d) y UAS.SPEC.050(1)(e) Responsabilidades del operador del UAS
+
+Decisión ED 2022/002/R
+
+TEMAS DE CONOCIMIENTOS TEÓRICOS PARA LA FORMACIÓN DEL PILOTO REMOTO Y DE TODO PERSONAL ENCARGADO DE TAREAS ESENCIALES PARA LA OPERACIÓN DEL UAS EN LA CATEGORÍA 'ESPECÍFICA'
+
+(a) La categoría "específica" puede cubrir una amplia gama de operaciones de UAS con diferentes niveles de riesgo y una amplia gama de diseños de UAS, en particular en términos de nivel de automatización. Por lo tanto, es posible que las siguientes directrices deban adaptarse teniendo en cuenta el nivel de automatización y el nivel de participación del piloto remoto en la gestión del vuelo. Por lo tanto, se requiere que el operador de UAS identifique la competencia requerida para el piloto remoto de acuerdo con el resultado de la evaluación de riesgos. Este AMC cubre los temas de conocimiento teórico, mientras que AMC2 UAS.SPEC.050(1)(d)  cubre los temas de conocimiento práctico aplicables a todas las operaciones de UAS en la categoría "específica". Además, para los temas de conocimiento teórico y práctico, el operador de UAS debe seleccionar los módulos adicionales relevantes de AMC3 UAS.SPEC.050(1)(d)  , según corresponda al tipo de operación de UAS prevista. El operador de UAS debe lograr un nivel de solidez consistente con el nivel de integridad de garantía (por ejemplo, SAIL) de la operación de UAS prevista.
+
+(b) La autoridad nacional competente podrá añadir temas adicionales para cubrir áreas de competencia nacional, como las normas nacionales en materia de seguridad, privacidad y protección de datos. En el caso de operaciones realizadas en un Estado miembro distinto del Estado de registro, estos temas adicionales podrán definirse como condiciones locales exigidas por el Estado miembro en el que se realice la operación.
+
+(do) Cuando la operación del UAS se lleve a cabo de acuerdo con una de las STS que se enumeran en el Apéndice 1  del Anexo del Reglamento UAS, el operador del UAS debe asegurarse de que el piloto remoto tenga la competencia que se define en las STS. En todos los demás casos, el operador del UAS debe proponer a la autoridad competente, como parte de la solicitud, un curso de formación de conocimientos teóricos para el piloto remoto basado en los elementos que se enumeran en AMC1 UAS.OPEN.020(4)(b)  , en UAS.OPEN.040(3) , en AMC1 UAS.OPEN.030(2)(c)  y en el Apéndice A del Anexo del Reglamento UAS, que sean pertinentes para la operación prevista, complementados con los elementos que se enumeran a continuación. El operador del UAS puede utilizar los mismos temas enumerados para proponer también para el personal a cargo de tareas esenciales para la operación del UAS un curso de formación de conocimientos teóricos con formación teórica basada en competencias específica para las tareas de ese personal.
+
+(1) Seguridad de la aviación:
+
+(i) registros de piloto remoto;
+
+(ii) cuadernos de bitácora y documentación asociada;
+
+(iii) principios de buena aviación;
+
+(iv) toma de decisiones aeronáuticas;
+
+(v) seguridad en tierra;
+
+(vi) seguridad aérea;
+
+(vii) informes de proximidad del aire; y
+
+(viii) vuelo avanzado:
+
+(A) maniobras y procedimientos de emergencia; y
+
+(B) información general sobre condiciones inusuales (por ejemplo, pérdidas, giros, limitaciones de sustentación vertical, autorrotación, estados de anillos de vórtices).
+
+(2) Reglamento de aviación:
+
+(i) Introducción al Reglamento UAS con especial atención a la categoría “específica”;
+
+(ii) evaluación de riesgos, introducción al SORA; y
+
+(iii) Visión general de los STS y los PDRA.
+
+(3) Navegación:
+
+(i) ayudas a la navegación (por ejemplo, GNSS) y sus limitaciones;
+
+(ii) lectura de mapas y cartas aeronáuticas (por ejemplo, 1:500 000 y 1:250 000, interpretación, cartas especializadas, rutas de helicópteros, áreas de servicio del U-space y comprensión de términos básicos); y
+
+(iii) navegación vertical (por ejemplo, altitudes y alturas de referencia, altimetría).
+
+(4) Limitaciones del desempeño humano:
+
+(i) percepción (conciencia de la situación en operaciones BVLOS);
+
+(ii) fatiga:
+
+(A) duración del vuelo dentro del horario laboral;
+
+(B) ritmo circadiano;
+
+(DO) estrés laboral;
+
+(D) problemas de visión; y
+
+(MI) presión comercial;
+
+(iii) atención:
+
+(A) eliminando distracciones; y
+
+(B) técnicas de escaneo;
+
+(iv) aptitud médica (precauciones de salud, alcohol, drogas, medicación, etc.); y
+
+(v) Factores ambientales como los cambios en la visión debido a la orientación hacia el sol.
+
+(5) Principios de funcionamiento del espacio aéreo:
+
+(i) clasificaciones del espacio aéreo y principios operativos;
+
+(ii) Espacio U;
+
+(iii) procedimientos para la reserva del espacio aéreo;
+
+(iv) publicaciones de información aeronáutica (AIP); y
+
+(v) NOTAM.
+
+(6) Conocimientos generales sobre UAS y sistemas externos que apoyan el funcionamiento de UAS:
+
+(i) diferencias entre niveles de autonomía (por ejemplo, operaciones automáticas versus autónomas);
+
+(ii) Protocolos de pérdida de señal y falla del sistema: comprender la condición y planificar respuestas programadas, como regresar a casa, permanecer allí y aterrizar de inmediato;
+
+(iii) equipos para mitigar riesgos aéreos y terrestres (por ejemplo, sistemas de terminación de vuelo);
+
+(iv) modos de control de vuelo;
+
+(v) los medios para monitorear la UA (su posición, altura, velocidad, enlace C2, estado de los sistemas, etc.);
+
+(vi) los medios de comunicación con las VO; y
+
+(vii) los medios para apoyar la concienciación sobre el tráfico aéreo.
+
+(7) Meteorología:
+
+(i) Obtención e interpretación de información meteorológica avanzada:
+
+(A) recursos de informes meteorológicos;
+
+(B) informes;
+
+(DO) pronósticos y convenciones meteorológicas apropiadas para operaciones de vuelo típicas de UAS;
+
+(D) evaluaciones meteorológicas locales (incluida la brisa marina, el frente de brisa marina y la isla de calor urbana);
+
+(MI) gráficos de bajo nivel; y
+
+(F) METAR, ESPECIFICACIONES, TAF;
+
+(ii) efectos climáticos regionales: patrones climáticos estándar en terrenos costeros, montañosos o desérticos; y
+
+(iii) efectos del tiempo sobre la UA (viento, tormentas, niebla, variación del viento con la altitud, cizalladura del viento, etc.).
+
+(8) Medidas técnicas y operativas de mitigación de riesgos aéreos:
+
+(i) operaciones para las que se emplean observadores del espacio aéreo (OA); y
+
+(ii) Principios de detección y evitación (DAA).
+
+(9) Procedimientos operativos:
+
+(i) Planificación de la misión, consideraciones del espacio aéreo y evaluación de riesgos del sitio:
+
+(A) medidas para cumplir con las limitaciones y condiciones aplicables al volumen operacional y al margen de riesgo terrestre para la operación UAS prevista;
+
+(B) Operaciones de UAS sobre un área terrestre controlada;
+
+(DO) Operaciones BVLOS;
+
+(D) uso de VO de la UA;
+
+(MI) importancia de las inspecciones in situ, la planificación de las operaciones, los procedimientos previos al vuelo y los procedimientos operativos;
+
+(ii) Cooperación multitripulación (MCC):
+
+(A) coordinación entre el piloto remoto y otro personal (por ejemplo, AO) encargado de tareas esenciales para la operación del UAS;
+
+(B) Gestión de recursos de la tripulación (CRM):
+
+(a) liderazgo efectivo;
+
+(b) Trabajando con otros.
+
+(10) Gestión de fuentes de datos relativas a:
+
+(i) de dónde obtener los datos;
+
+(ii) la seguridad de los datos;
+
+(iii) la cantidad de datos necesarios; y
+
+(iv) El impacto en el almacenamiento de datos
+
+(do) plan de respuesta a emergencias (ERP) — el operador de UAS debe proporcionar a su personal capacitación teórica basada en competencias que cubra el ERP e incluya los requisitos de competencia relacionados y capacitación recurrente.
+
+(d) Tanto la formación como la evaluación deben ser adecuadas al nivel de automatización de la operación UAS prevista.
+
+AMC2 UAS.SPEC.050(1)(d) y UAS.SPEC.050(1)(e) Responsabilidades del operador del UAS
+
+Decisión ED 2022/002/R
+
+ENTRENAMIENTO EN HABILIDADES PRÁCTICAS PARA EL PILOTO REMOTO Y TODO EL PERSONAL A CARGO DE TAREAS ESENCIALES PARA LA OPERACIÓN DEL UAS EN LA CATEGORÍA 'ESPECÍFICA'
+
+(a) En lo que respecta a la formación y evaluación de las habilidades prácticas del piloto remoto, el operador del UAS debe tener en cuenta las competencias definidas en AMC2 UAS.OPEN.030(2)(b)  , complementadas con los elementos que se enumeran a continuación. El operador del UAS debe adaptar la formación de las habilidades prácticas a las características de la operación prevista del UAS y a las funciones disponibles en el UAS. El operador del UAS puede utilizar los mismos temas enumerados y puede proporcionar un curso de formación práctica también para todo el resto del personal a cargo de tareas esenciales para la operación del UAS. Se pueden utilizar simuladores adecuados para realizar algunas o todas las tareas.
+
+(1) Preparación de la operación UAS:
+
+(i) implementar las medidas necesarias para cumplir con las limitaciones y condiciones aplicables al volumen operacional y al margen de riesgo terrestre para la operación UAS prevista de conformidad con los procedimientos del OM;
+
+(ii) seguir los procedimientos necesarios para las operaciones de UAS en el espacio aéreo controlado, incluido un protocolo para comunicarse con el ATC y obtener autorización e instrucciones, si es necesario;
+
+(iii) confirmar que todos los documentos necesarios para la operación prevista del UAS están en el sitio;
+
+(iv) Informar a todos los participantes sobre la operación UAS planificada;
+
+(v) realizar una exploración visual del espacio aéreo; y
+
+(vi) Si se emplean AO, colóquelos apropiadamente e infórmeles sobre el esquema de solución de conflictos que incluye fraseología.
+
+(2) Preparación para el vuelo:
+
+(i) garantizar que todos los sistemas y funciones de seguridad, si están instalados en el UAS, incluidos sus sistemas de limitación de altura y velocidad, el sistema de terminación del vuelo y el sistema de activación, estén operativos; y
+
+(ii) conocer las acciones básicas a tomar en caso de emergencia, incluidos problemas con el UAS o un peligro de colisión en el aire que surja durante el vuelo.
+
+(3) Vuelo en condiciones anormales:
+
+(i) gestionar una escasez parcial o total de potencia del sistema de propulsión del UA, garantizando al mismo tiempo la seguridad de terceros en tierra;
+
+(ii) gestionar una situación en la que una persona no involucrada ingrese al volumen operacional o al área terrestre controlada y tomar las medidas apropiadas para mantener la seguridad; y
+
+(iii) reaccionar y tomar las medidas correctivas apropiadas ante una situación en la que sea probable que el UA exceda los límites tanto de la geografía del vuelo (procedimientos de contingencia) como del volumen operacional (procedimientos de emergencia) tal como se definieron durante la preparación del vuelo.
+
+(4) En general, se debe hacer hincapié en lo siguiente:
+
+(i) procedimientos normales, de contingencia y de emergencia;
+
+(ii) pruebas de habilidad combinadas con verificaciones periódicas de competencia;
+
+(iii) experiencia operativa (con capacitación en el trabajo contando para la competencia);
+
+(iv) procedimientos y documentación previos y posteriores al vuelo;
+
+(v) entrenamiento recurrente (UAS / dispositivo de entrenamiento de vuelo (FTD)); y
+
+(vi) incapacitación del piloto remoto
+
+(b) El entrenamiento de habilidades prácticas puede llevarse a cabo con el UAS o en un FTD. El entrenamiento basado en escenarios (SBT) con guiones de experiencia del mundo real altamente estructurados para la operación prevista del UAS debe usarse para fortalecer el aprendizaje del personal en un entorno operativo y mejorar la conciencia situacional. El SBT debe incluir escenarios normales, anormales y de emergencia realistas que se redacten considerando objetivos de aprendizaje específicos.
+
+(do) La capacitación en habilidades prácticas se verifica durante la evaluación y puede proporcionarse utilizando el UAS real o un FTD apropiado para la operación del UAS prevista.
+
+(d) Formación inicial y recurrente
+
+(1) El operador del UAS debe garantizar que se establezcan los requisitos mínimos especificados respecto del tiempo de entrenamiento inicial y recurrente (por ejemplo, duración y número de horas de vuelo) de una manera que sea aceptable y aprobada por la autoridad competente.
+
+(2) Dependiendo del curso de capacitación, cada uno de los temas que se muestran en la Tabla 1 a continuación puede requerir solo una capacitación general o una capacitación en profundidad. La capacitación en profundidad debe ser interactiva y debe incluir debates, revisiones de estudios de casos y juegos de roles, según se considere necesario para mejorar el aprendizaje. En caso de cambio o actualización del SW/HW del UAS, dependiendo de la magnitud de los cambios, el operador del UAS debe definir el nivel de capacitación.
+
+Tema
+	
+
+Formación inicial
+	
+
+Cambio de UAS
+	
+
+Cambio de piloto/tripulación a distancia
+	
+
+Entrenamiento recurrente
+
+Conciencia situacional y gestión de errores
+	
+
+En profundidad
+	
+
+En profundidad
+	
+
+Descripción general
+	
+
+Descripción general
+
+Cultura de seguridad organizacional, procedimientos operativos y estructura organizacional
+	
+
+En profundidad
+	
+
+No requerido
+	
+
+En profundidad
+	
+
+Descripción general
+
+Manejo del estrés, fatiga y vigilancia.
+	
+
+En profundidad
+	
+
+No requerido
+	
+
+No requerido
+	
+
+Descripción general
+
+Toma de decisiones
+	
+
+En profundidad
+	
+
+Descripción general
+	
+
+No requerido
+	
+
+Descripción general
+
+Automatización y filosofía del uso de la automatización.
+	
+
+Según sea necesario
+	
+
+En profundidad
+	
+
+En profundidad
+	
+
+Según sea necesario
+
+Diferencias específicas relacionadas con el tipo de UAS
+	
+
+Según sea necesario
+	
+
+En profundidad
+	
+
+No se requiere para el mismo tipo de UAS)
+	
+
+Según sea necesario
+
+Estudios basados ​​en casos
+	
+
+En profundidad
+	
+
+En profundidad
+	
+
+En profundidad
+	
+
+Según sea necesario
+
+Tabla 1 — Nivel de formación en habilidades prácticas en varios temas según formación inicial,
+formación recurrente o cambio de UAS/piloto remoto/tripulación remota
+
+AMC3 UAS.SPEC.050(1)(d) Responsabilidades del operador del UAS
+
+Decisión ED 2022/002/R
+
+MÓDULOS DE APROBACIÓN ESPECÍFICOS PARA OPERACIONES DE UAS
+
+Dependiendo del tipo y riesgo de la operación prevista del UAS, el operador del UAS puede proponer, como parte de la solicitud de autorización operacional, capacitación en conocimientos teóricos adicionales en combinación con la capacitación en habilidades prácticas que sea específica para la operación prevista del UAS, tal como se describe en el manual de operación.
+
+La formación práctica debe contener al menos las competencias prácticas que se describen en AMC2 UAS.OPEN.030(2)(b)  'Operaciones de UAS en la subcategoría A2', que pueden incluir los procedimientos de emergencia y contingencia pertinentes. No obstante, el operador de UAS puede adaptar dicha formación al nivel de automatización del UAS.
+
+Durante el entrenamiento práctico, el piloto remoto debe enumerar los procedimientos de emergencia y contingencia pertinentes, que se definen en el manual de operaciones y que son específicos para el vuelo sobre áreas pobladas conocidas o sobre concentraciones de personas o con mayor riesgo aéreo, en una zona de operaciones determinada, y debe describir las condiciones básicas para cada tipo de emergencia, así como las técnicas de recuperación relacionadas que se aplicarán durante el vuelo para las emergencias que se definen en el manual de operaciones. Dependiendo de la criticidad de la situación y del tiempo disponible para reaccionar, el piloto remoto debe memorizar algunos procedimientos, mientras que para otros procedimientos, puede consultar una lista de verificación. Los procedimientos de emergencia y contingencia también pueden involucrar a otro personal; en ese caso, el operador del UAS debe definir el entrenamiento práctico necesario para ellos.
+
+El piloto remoto solo debe completar los módulos de capacitación específicos de la operación que reflejen la operación prevista del UAS. Por ejemplo, en caso de transporte de carga, el piloto remoto debe completar el módulo de capacitación relacionado "Transporte y/o lanzamiento de carga"; sin embargo, si la carga contiene mercancías peligrosas, entonces el piloto remoto también debe completar el módulo de capacitación "Transporte de mercancías peligrosas".
+
+El nivel de garantía de los módulos de aprobación específicos de la operación está determinado por el nivel de integridad de garantía relacionado (por ejemplo, SAIL) de acuerdo con la respectiva evaluación de riesgo operativo específico.
+
+Los módulos de aprobación específicos para la operación de UAS pertinentes deben reflejarse en la documentación de las competencias del piloto remoto.
+
+Se recomiendan los siguientes módulos de aprobación específicos para la operación de UAS y las áreas a cubrir:
+
+(a) operaciones nocturnas;
+
+(b) sobrevuelo (vuelo sobre zonas pobladas conocidas o sobre concentraciones de personas);
+
+(do) Operaciones BVLOS;
+
+(d) operaciones a baja altitud (por debajo de 500 pies);
+
+(mi) vuelos en espacio aéreo no segregado;
+
+(F) transporte y/o descarga de carga;
+
+(gramo) transporte de mercancías peligrosas;
+
+(o) operaciones con múltiples UAS y enjambres;
+
+(i) Lanzamiento y recuperación de UA utilizando equipo especial;
+
+(j) volando sobre terreno montañoso.
+
+Nota: La “Justificación” en cursiva en fuente gris debajo de la columna “Objetivos de aprendizaje” se proporciona con fines explicativos y no forma parte del texto de la regla propuesta.
+
+Módulos de aprobación específicos de la operación
+	
+
+Áreas a cubrir
+	
+
+Objetivos de aprendizaje
+
+Operaciones nocturnas
+	
+
+General
+	
+
+Reconocer el significado de la definición de “noche” u otra redacción similar que se utiliza para el vuelo nocturno.
+
+Justificación: En el Reglamento (UE) n.º 1178/2011  (el «Reglamento sobre las tripulaciones de vuelo»), «noche» para la aviación tripulada «significa el período comprendido entre el final del crepúsculo civil vespertino y el comienzo del crepúsculo civil matutino o cualquier otro período entre el atardecer y el amanecer que pueda prescribir la autoridad competente».
+
+Algunas leyes nacionales utilizan las horas de salida y puesta del sol para definir un vuelo nocturno. La "puesta del sol" se define como la desaparición diaria del extremo superior del sol por debajo del horizonte. Esta hora depende de la latitud y la longitud desde el punto de observación. Hay muchos sitios web y aplicaciones para averiguar las horas de salida y puesta del sol en un lugar específico.
+
+Reconocer los beneficios de iluminar el área operativa, especialmente durante las fases críticas del despegue y el aterrizaje.
+
+Reconocer que durante el vuelo nocturno es difícil estimar la distancia entre la UA y otros obstáculos si la visibilidad solo está asegurada por las luces de la UA.
+
+Reconozca que un sistema de evitación visual de obstáculos puede ser menos preciso en operaciones nocturnas.
+
+Comprenda que si se pierde la visión de la UA durante la noche, se debe proceder inmediatamente al regreso a casa (RTH).
+
+Justificación: Durante el día, a veces es difícil ver la posición de la UA, lo que es aún más difícil durante la noche.
+
+Tenga en cuenta que una cámara con radiación infrarroja (IR) permite ver lo suficiente durante la noche. Apagar la luz verde intermitente delantera puede mejorar la visión porque no habrá reflejos en la cámara incorporada.
+
+Reconozca que la cámara IR no ayuda en caso de lluvia/humedad y que la visibilidad IR disminuye significativamente.
+
+Explicar el uso de la luz verde intermitente en la noche.
+
+Explicar el uso de luces de navegación, luces de posición, luces anticolisión y otras luces para el control del UA.
+
+Explicar el uso de luces (por ejemplo, luces de navegación, de posición o anticolisión) para reconocer la presencia de aeronaves tripuladas.
+
+Justificación: Esas luces muestran dónde está posicionada la UA y la dirección en la que está alineada.
+
+En los aviones tripulados, se coloca una luz de navegación roja en el borde de ataque de la punta del ala izquierda y una luz de navegación verde en el borde de ataque de la punta del ala derecha (en el caso de los helicópteros, en los lados izquierdo y derecho de la cabina). En la cola, lo más atrás posible, se coloca una luz de navegación blanca. En esas posiciones también se colocan luces estroboscópicas de alta intensidad. Se utilizan como luces anticolisión y parpadean dos veces después de un breve descanso. Una baliza giratoria roja también forma parte de las luces anticolisión.
+
+Degradación de la agudeza visual
+	
+
+Reconozca que volar el UA durante la noche degrada la percepción visual.
+
+Reconocer la miopía nocturna, causada por el aumento del tamaño de la pupila. En condiciones de poca luz, sin objetos distantes en los que enfocar, el mecanismo de enfoque del ojo puede adoptar una posición de miopía en reposo.
+
+Si se utilizan gafas de visión nocturna, conozca cómo funcionan.
+
+Ilusiones nocturnas
+	
+
+Define el término “ilusión nocturna”.
+
+Reconocer y superar las ilusiones visuales causadas por la oscuridad y comprender las condiciones fisiológicas que pueden degradar la visión nocturna.
+
+Exponer las limitaciones de las técnicas de visión nocturna durante la noche y el día.
+
+Técnicas de escaneo visual modificadas
+	
+
+Exponer las limitaciones de las diferentes técnicas de exploración visual durante el día y la noche.
+
+Justificación: A pesar del valor de los medios electrónicos para la detección de conflictos, la vigilancia física sigue siendo una defensa importante contra la pérdida de separación visual para todo tipo de aeronaves.
+
+Para evitar colisiones, el piloto remoto debe realizar un seguimiento visual eficaz desde el momento en que el UA comienza a moverse hasta que se detiene al final del vuelo. Las amenazas de colisión están presentes en todas partes.
+
+Antes del despegue, el piloto remoto debe inspeccionar visualmente el área de despegue para asegurarse de que no haya otros objetos. Después del despegue, el piloto remoto debe continuar inspeccionando visualmente para asegurarse de que el avión no tripulado despegue de forma segura y sin obstáculos.
+
+Identificación alterada de obstáculos
+	
+
+Explique el efecto de los obstáculos en la distancia de despegue que se requiere durante la noche.
+
+Fundamento: El piloto remoto debe conocer la zona de vuelo en la que volará el UA durante la noche. Los objetos se ven diferentes y las líneas eléctricas son casi invisibles durante la noche. Por lo tanto, es recomendable que el piloto remoto realice un vuelo de prueba durante el día.
+
+Sobrevuelo (vuelo sobre zonas pobladas conocidas o sobre concentraciones de personas)
+	
+
+Identificación de zonas pobladas y concentraciones de personas
+	
+
+Explique la definición de 'área poblada' y 'asambleas de personas'.
+
+Optimización de las rutas de vuelo para reducir el riesgo de exposición
+	
+
+Explique los efectos de las siguientes variables en la trayectoria de vuelo y las distancias de despegue:
+
+— procedimiento de despegue;
+
+— franqueamiento de obstáculos tanto lateral como verticalmente;
+
+— comprender la letalidad de un UAS, incluida la zona de escombros a través de piezas que salen despedidas después de un accidente; y
+
+— Reconocer la importancia de una zona de aterrizaje de emergencia definida.
+
+Posibles lugares de operación y sitios alternativos
+	
+
+Reconocer los diferentes sitios de operación y sitios alternativos en la ruta del sobrevuelo.
+
+Espacio libre adecuado para los efectos del viento, especialmente en entornos urbanos
+	
+
+Explicar cómo cambia el viento a muy baja altura debido a su interacción con la orografía y los edificios.
+
+Obstáculos (cables, mástiles, edificios, etc.)
+	
+
+Explique el efecto de los obstáculos en la distancia de despegue requerida.
+
+Interpretar todos los procedimientos, datos e información disponibles sobre los obstáculos que podrían encontrarse durante el sobrevuelo.
+
+Cómo evitar la interferencia de terceros con la UA
+	
+
+Explique cómo evitar la interferencia de terceros con la UA.
+
+Distancias mínimas de separación con personas, embarcaciones, vehículos y estructuras
+	
+
+Explicar la importancia de las distancias mínimas de separación con personas, embarcaciones, vehículos y estructuras.
+
+Impacto de las interferencias electromagnéticas, es decir, transmisiones de radio de alta intensidad
+	
+
+Describe el fenómeno físico "interferencia".
+
+Explicar en qué situaciones pueden producirse interferencias electromagnéticas, en particular en lo que respecta a emisiones electromagnéticas y reflexiones de señales propias de un entorno urbano. Explicar su impacto en el sistema UAS (es decir, calidad del enlace C2 GNSS, etc.).
+
+Estrategias de control de multitudes y acceso público
+	
+
+Explique la importancia de garantizar que nadie esté en peligro dentro del área de despegue y aterrizaje.
+
+Describe las diferentes estrategias de control de multitudes.
+
+Explicar la importancia de tener conocimiento del acceso público.
+
+Operaciones BVLOS
+	
+
+Planificación de operaciones: espacio aéreo, terreno, obstáculos, tráfico aéreo esperado y áreas restringidas
+	
+
+Explique la planificación de operaciones para operaciones BVLOS:
+
+— comprobar las condiciones de vuelo (por ejemplo, zona geográfica, NOTAM) y los obstáculos a lo largo de la ruta planificada;
+
+— asegurar la documentación necesaria antes de la operación BVLOS;
+
+— conocer y cumplir las condiciones locales en el área donde se lleva a cabo la operación BVLOS;
+
+— garantizar la comunicación con el controlador de tránsito aéreo (ATCO), dependiendo del tipo de espacio aéreo dentro del cual se planea realizar la operación BVLOS;
+
+— planificar la operación BVLOS, incluida la ruta de vuelo y la respuesta a eventos de contingencia y emergencia;
+
+— en espacio aéreo no controlado, comprobar el nivel real de tráfico tripulado a lo largo de la ruta planificada, incluido el tráfico de bajo nivel, como parapentes, ala delta, helicópteros, aviones modelo, hidroaviones y otro tráfico posible;
+
+— en espacio aéreo no controlado, verificar que la operación del UAS haya sido notificada a la aviación tripulada mediante, por ejemplo, NOTAM u otros medios utilizados por la aviación tripulada;
+
+— cómo emplear observadores del espacio aéreo (OA), cuando sea necesario;
+
+— tener en cuenta las limitaciones del enlace C2 (por ejemplo, alcance máximo y presencia de obstáculos); y
+
+— utilización de dispositivos de visibilidad o información de tráfico / detección de aeronaves entrantes / maniobras de desconflicto y emergencia.
+
+Los sistemas de sensores y sus limitaciones
+	
+
+Indicar las limitaciones de los diferentes sistemas de sensores.
+
+Fundamento: Los UAS que se utilizan para operaciones BVLOS deben mantener una posición precisa para evitar conflictos de tráfico y llevar a cabo con éxito su misión. Las características ambientales, como túneles y cañones urbanos, pueden debilitar las señales GNSS o incluso hacer que se pierdan por completo. Para mantener la precisión en entornos sin GNSS, los UAS pueden utilizar sistemas de navegación inercial (INS) con capacidad cinemática en tiempo real (RTK) que proporcionan información de acelerómetros y giroscopios para estimar con precisión la posición, la velocidad, el rumbo y la actitud.
+
+Aeronaves cooperativas y no cooperativas (vigilancia del espacio aéreo)
+	
+
+Identificar las capacidades del sensor/sistema de detección y evitación (DAA) cooperativo y no cooperativo para UA, si corresponde.
+
+Justificación: Las capacidades DSAA cooperativas y no cooperativas son elementos clave para que la UA pueda acceder de forma segura y rutinaria a todas las clases de espacio aéreo.
+
+Funciones y responsabilidades del piloto remoto para evitar colisiones
+	
+
+Explicar las fraseologías del sistema de alerta de tráfico y del sistema de prevención de colisiones de tráfico (TCAS), y cómo funcionan estos sistemas.
+
+Identificar los roles y responsabilidades del piloto remoto para mantenerse alejado de las colisiones.
+
+Explique la metodología de prevención de colisiones que se utiliza en la operación para mantener la UA alejada del resto del tráfico.
+
+Fundamento: La prevención de colisiones se está convirtiendo en un elemento clave para las operaciones de UAS en el espacio aéreo civil. Los desafíos operativos y técnicos de la prevención de colisiones de UAS se complican por la amplia variedad de UAS, sus misiones asociadas y sus capacidades de control en tierra. Se están explorando numerosas soluciones tecnológicas para la prevención de colisiones en la comunidad de UAS.
+
+Rendimiento y limitaciones del enlace de comando, control y comunicación (C3)
+	
+
+Conozca la definición de 'C3'.
+
+Comprender la relación entre las comunicaciones y el mando y control efectivos (C2).
+
+Comprender la estructura básica de C3.
+
+Comprender el uso de visualizaciones de movimiento real y relativo.
+
+Comprender los problemas inherentes al C3.
+
+Fundamento: El C3 no se puede lograr sin comunicaciones bidireccionales . El C3 sería imposible a menos que el piloto remoto pueda recopilar retroalimentación de alguna forma. Un elemento básico de cualquier sistema C3 es la incorporación de una red de comunicaciones confiable.
+
+Latencia de señal o comunicaciones para el enlace C2
+	
+
+Comprenda el impacto de la latencia de la señal o de las comunicaciones en el enlace C2.
+
+Explique qué puede causar y cómo detectar una latencia en la señal o las comunicaciones.
+
+Describe las acciones que se requieren después de una latencia de señal o comunicaciones.
+
+Justificación: El control BVLOS puede requerir un enlace de comunicaciones por satélite que implica un nivel de retraso de señal, o latencia de señal, que puede afectar la precisión de la operación BVLOS.
+
+Planificación para la pérdida del enlace C2 o para la falla del sistema
+	
+
+Comprenda el impacto de una pérdida de enlace C2.
+
+Explique qué puede causar una falla del sistema y cómo detectarla.
+
+Describe las acciones que se requieren después de una pérdida de enlace C2.
+
+Describe cómo planificar las rutas de contingencia en caso de pérdida del enlace C2.
+
+Justificación: Es de suma importancia realizar un seguimiento de los UAS en el espacio aéreo civil y saber qué sucede si se interrumpe el enlace C2 entre la estación de control terrestre del piloto remoto y el UAS. En una situación de pérdida del enlace C2, el UAS suele volar en una ruta de contingencia preprogramada en función de su altitud de vuelo, orientación y rumbo. La ausencia de conocimiento de la situación y comunicación directa desde el UAS hace que sea difícil o imposible para los controladores de vuelo descubrir la posición real del UAS e identificar si la ruta de contingencia preprogramada se sigue correctamente, lo que perjudica la posibilidad de despejar el tráfico a lo largo de su ruta prevista.
+
+Interpretación de fuentes de datos independientes
+	
+
+Interpretar diferentes fuentes de datos para identificar si durante el vuelo la UA sigue la ruta planificada.
+
+Gestión de recursos de la tripulación (CRM)
+	
+
+Explique la importancia del CRM para las operaciones BVLOS.
+
+Operaciones a baja altitud (por debajo de 500 pies) 
+	
+
+Procedimientos de gestión del tráfico aéreo (ATM)
+	
+
+Describir los procedimientos ATM para operaciones a baja altitud.
+
+Comunicaciones por radio y fraseología
+	
+
+Definir el significado de 'palabras y frases estándar'.
+
+Reconocer, describir y utilizar la fraseología estándar correcta para cada fase de un vuelo según las reglas de vuelo visual (VFR).
+
+Explicar el sistema de llamada selectiva (SelCal) y las fraseologías del sistema de direccionamiento y reporte de comunicaciones de aeronaves (ACARS).
+
+Explicar las fraseologías del sistema de alerta de tráfico y prevención de colisiones (TCAS).
+
+Conciencia situacional
+	
+
+Mantenerse consciente de la situación, especialmente con aeronaves tripuladas a baja altura y, si es necesario, emplear observadores del espacio aéreo (AO).
+
+Terminología aeronáutica avanzada
+	
+
+Explicar el significado de la terminología relacionada con las operaciones a baja altitud.
+
+Vuelo en espacio aéreo no segregado
+	
+
+Roles y responsabilidades claros
+	
+
+Describa la relación entre las causas iniciadoras (o amenazas), el peligro (evento principal), las mitigaciones de riesgo (los controles y barreras) y los posibles resultados consecuentes (estados de pérdida) al realizar un vuelo en un espacio aéreo no segregado.
+
+Turbulencia de estela
+	
+
+Indique las categorías de turbulencia de estela para UA.
+
+Indique los mínimos de separación por estela turbulenta.
+
+Transporte y/o descarga de carga
+	
+
+Peso y equilibrio
+	
+
+Describe la relación entre la masa UA y la tensión estructural.
+
+Describe por qué se debe limitar la masa para garantizar márgenes de fuerza adecuados.
+
+Describe la relación entre la masa de la UA y el rendimiento de la aeronave.
+
+Describa por qué se debe limitar la masa de la UA para garantizar un rendimiento adecuado de la aeronave.
+
+Dependiendo del tipo de operación, describa la relación entre la posición del centro de gravedad (CG) y la estabilidad/controlabilidad del UA.
+
+Describe las consecuencias si el CG está delante del límite delantero.
+
+Describe las consecuencias si el CG está detrás del límite de popa.
+
+Describe la relación entre la posición del CG y el rendimiento de la aeronave.
+
+Describe los efectos de la posición del CG en los parámetros de rendimiento (velocidad, altitud, resistencia y alcance).
+
+Familiarizarse con las abreviaturas relacionadas con la masa y el equilibrio, por ejemplo, masa (máxima) de despegue ((M)TOM), masa (máxima) de aterrizaje ((M)LM), masa básica vacía (BEM), masa operativa seca (DOM), masa operativa (OM) y masa sin combustible (ZFM).
+
+Describe los efectos de los cambios en la carga al dejar caer un objeto.
+
+Describe los efectos de una pérdida involuntaria de la carga.
+
+Fundamento: La masa y el equilibrio son extremadamente importantes para un UA. Un UA que no esté equilibrado puede resultar difícil de controlar. Por lo tanto, se debe tener en cuenta el equilibrio general al agregar cargas útiles, colocar estabilizadores, etc.
+
+Sujeción de la carga y conocimiento de las mercancías peligrosas
+	
+
+Calcular el MTOM y el MLM.
+
+Explique las razones para restringir o asegurar las cargas.
+
+Describir los métodos básicos para sujetar o asegurar cargas.
+
+Explique por qué el transporte de mercancías peligrosas por vía aérea está sujeto a un módulo de formación adicional.
+
+Establecer que determinados artículos y sustancias, que de otro modo se clasificarían como mercancías peligrosas, podrán quedar exentos si forman parte del equipo del UA.
+
+Justificación: La operación segura del UAS requiere pesar toda la carga en el UA (o proporcionar una estimación precisa del peso utilizando valores "estándar"), cargarla correctamente y asegurarla para evitar la pérdida o el movimiento de la carga durante el vuelo.
+
+La carga debe realizarse de acuerdo con las regulaciones y limitaciones aplicables. Los procedimientos de carga del operador del UAS deben estar de acuerdo con las instrucciones dadas por la persona que tiene la responsabilidad general del proceso de carga para un vuelo de UA en particular. Estas instrucciones de carga deben coincidir con los requisitos de distribución de carga que se incluyen en la hoja de carga y ajuste del UA.
+
+Transporte de mercancías peligrosas
+	
+
+Transporte seguro de mercancías peligrosas
+	
+
+Explicar la terminología relevante para mercancías peligrosas.
+
+Ser capaz de reconocer mercancías peligrosas y comprender su etiquetado.
+
+Ser capaz de interpretar la documentación relacionada con mercancías peligrosas.
+
+Reconocer mercancías peligrosas mediante el uso de 'fichas de datos de seguridad' y el etiquetado para el consumidor del Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA).
+
+Explique que las disposiciones para el transporte de mercancías peligrosas por vía aérea están incluidas en el Doc 9284 de la OACI 'Instrucciones técnicas para el transporte seguro de mercancías peligrosas por vía aérea'.
+
+Indicar los procedimientos de emergencia/notificación en caso de un evento con mercancías peligrosas, incluyendo que en el caso de una emergencia relacionada con mercancías peligrosas con respecto a la UA, el piloto remoto debe informar a la organización ATC sobre el transporte de mercancías peligrosas.
+
+Explicar los principios de compatibilidad y segregación de mercancías peligrosas.
+
+Explique los requisitos especiales para la carga de materiales radiactivos.
+
+Explique el uso de la lista de mercancías peligrosas.
+
+Explicar los procedimientos para recopilar datos de seguridad, por ejemplo, informar accidentes, incidentes y sucesos con mercancías peligrosas.
+
+Nota: Los objetivos de aprendizaje deben derivarse de las Instrucciones Técnicas y deben ser proporcionales a las responsabilidades del personal.
+
+Operaciones con múltiples UAS y enjambres
+	
+
+Limitaciones relacionadas con factores humanos
+	
+
+Comprender las limitaciones del desempeño humano en una operación con múltiples UAS, incluidos enjambres de UAS.
+
+Enumere las acciones vitales que el piloto remoto y las personas que lo asisten deben realizar en caso de un descenso de emergencia de los UAS múltiples/enjambre.
+
+Gestión de relaciones con el cliente
+	
+
+Explicar la importancia del CRM para operaciones con múltiples UAS y enjambres.
+
+Navegando por múltiples plataformas
+	
+
+Describe cómo navegar por múltiples plataformas.
+
+Reconocer fallas del sistema
+	
+
+Describe las diferentes fallas que potencialmente pueden ocurrir durante operaciones de UAS múltiples o enjambre.
+
+Explique qué hacer en caso de falla.
+
+Reconocer que el piloto remoto puede anular el sistema en caso de falla.
+
+Procedimientos de contención de emergencia
+	
+
+Enumere los diferentes procedimientos de contención de emergencias y describa las condiciones básicas para cada tipo de emergencia.
+
+Describir las técnicas de recuperación en caso de falla del motor o de la batería durante operaciones con UAS múltiples o enjambre.
+
+Lanzamiento y recuperación de UAS utilizando equipos especiales
+	
+
+Procedimientos operativos
+	
+
+Explicar los procedimientos específicos para las operaciones de lanzamiento y recuperación.
+
+Explicar el impacto en el comportamiento de la UA cuando los sistemas de lanzamiento y recuperación se operan desde un vehículo en movimiento, incluidos los barcos.
+
+Reconociendo los fracasos
+	
+
+Describe los diferentes fallos que pueden ocurrir durante las operaciones de lanzamiento y recuperación.
+
+Explique qué hacer en caso de falla.
+
+Describe los casos en los que el piloto remoto puede anular el sistema en caso de falla.
+
+Volando sobre un entorno montañoso
+	
+
+Inversiones térmicas
+	
+
+Describa lo siguiente:
+
+— el efecto de la turbulencia inducida térmicamente cerca de la superficie de la Tierra;
+
+— efectos de superficie;
+
+— variaciones diurnas y estacionales;
+
+— el efecto de las nubes; y
+
+— El efecto del viento.
+
+Fundamento: La temperatura puede afectar a la altitud de densidad. Si el UA vuela en un día caluroso y húmedo, el piloto remoto experimentará un rendimiento deficiente del UA: a medida que aumenta la temperatura, las moléculas de aire se dispersan. Como resultado, las hélices o motores del UA no tienen mucho aire al que agarrarse.
+
+Levantamiento orográfico
+	
+
+Describa el efecto de explotar el levantamiento orográfico (es decir, pendiente o cresta) y las acciones requeridas.
+
+Describe los movimientos verticales, la cizalladura del viento y la turbulencia, que son típicos del entorno montañoso.
+
+Fundamento: El levantamiento orográfico se produce cuando una masa de aire se ve forzada a pasar de una altitud baja a una altitud más alta a medida que se desplaza sobre un terreno en ascenso. A medida que la masa de aire gana altitud, se enfría rápidamente de forma adiabática, lo que puede elevar la humedad relativa al 100 %, crear nubes y, en las condiciones adecuadas, provocar precipitaciones. 101 .
+
+Vientos más fuertes a través de los pasos
+	
+
+Describir los efectos de la cizalladura del viento y las acciones necesarias cuando se encuentra cizalladura del viento durante el despegue y la aproximación.
+
+Describa las precauciones que se deben tomar cuando se sospecha que hay cizalladura del viento durante el despegue y la aproximación.
+
+Describir los efectos de la cizalladura del viento y las acciones necesarias tras la entrada en una fuerte cizalladura del viento por corrientes descendentes.
+
+Describe la influencia de una zona montañosa en un paso frontal.
+
+Justificación: En un entorno montañoso, el viento sopla suavemente en el lado de barlovento de la montaña. En el lado de sotavento, el viento sigue los contornos del terreno y puede ser bastante turbulento: esto se llama viento catabático. Cuanto más fuerte es el viento, mayor es la presión descendente. Este tipo de viento empujará al UA hacia la superficie de la montaña. Si el piloto remoto no sabe cómo reconocer una corriente descendente, que es aire que se mueve hacia abajo, la situación puede volverse bastante complicada.
+
+Ondas de montaña
+	
+
+Explicar el origen y la formación de las ondas de montaña.
+
+Indique las condiciones necesarias para la formación de ondas de montaña.
+
+Describe la estructura y propiedades de las ondas de montaña.
+
+Explique cómo se pueden identificar las ondas de montaña a través de sus fenómenos meteorológicos asociados.
+
+Explique que los efectos de las ondas de montaña pueden exceder el rendimiento o la capacidad estructural del UA.
+
+Explique que los efectos de las ondas de montaña pueden propagarse desde niveles bajos a niveles altos.
+
+Indicar las zonas turbulentas (ondas de montaña, rotores) en un dibujo de una cadena montañosa.
+
+Patrones de alta y baja presión
+	
+
+Describe los movimientos de los frentes y los sistemas de presión, y el ciclo de vida de una depresión de latitudes medias.
+
+Enunciar las reglas para predecir la dirección y la velocidad de movimiento de los frentes.
+
+Indique la diferencia en la velocidad de los frentes fríos y cálidos.
+
+Exponer las reglas para predecir la dirección y la velocidad de las depresiones frontales.
+
+Efectos de la altitud y la densidad
+	
+
+Defina la altitud de presión y la altitud de densidad del aire.
+
+Explique los efectos de la masa total (AUM), la presión, la temperatura, la altitud de densidad y la humedad.
+
+Explique la influencia de la altitud de densidad en el equilibrio de fuerzas y momentos en un vuelo estacionario estable, si corresponde.
+
+Fundamento: una altitud de mayor densidad implica un aire más enrarecido, y un aire más enrarecido implica que el piloto remoto experimentará un rendimiento deficiente del UA. Las hélices o motores del UA no tienen mucho aire al que agarrarse. Una altitud de menor densidad implica un aire más denso y espeso, y un mayor rendimiento del UA.
+
+Este conocimiento es muy importante cuando el piloto remoto vuela en un entorno montañoso o de gran altitud.
+
+GM1 UAS.SPEC.050(1)(d)(iii) Responsabilidades del operador del UAS
+
+Decisión ED 2022/002/R
+
+COORDINACIÓN DEL OPERADOR DEL UAS CON LA(S) ENTIDAD(ES) DESIGNADA(S)
+
+En el caso de operaciones con UAS que requieran una autorización operacional, la formación de los pilotos remotos debe impartirse en coordinación con la(s) entidad(es) designada(s) por la autoridad competente, únicamente si esta ha designado entidades que cumplan los criterios aplicables para impartir la formación requerida. Si la autoridad competente no ha designado ninguna entidad, dicha coordinación no es necesaria.
+
+AMC1 UAS.SPEC.050(1)(g) Responsabilidades del operador del UAS
+
+Decisión ED 2019/021/R
+
+REGISTRO DE ACTIVIDADES DE VUELO Y MANTENIMIENTO DE REGISTROS
+
+(a) Un medio aceptable para registrar y dejar constancia de las actividades de vuelo es utilizar un libro de registro, que puede ser electrónico.
+
+(b) La información que debe registrarse debe indicarse en la declaración o en la autorización de operación, la cual puede incluir lo siguiente:
+
+(1) la identificación del UAS (fabricante, modelo/variante (por ejemplo, número de serie);
+
+NOTA: si el UAS no está sujeto a registro, la identificación del UAS podrá realizarse utilizando el número de serie del UAS.
+
+(2) la fecha, hora y lugar del despegue y del aterrizaje;
+
+(3) la duración de cada vuelo;
+
+(4) el número total de horas/ciclos de vuelo;
+
+(5) en el caso de una operación pilotada a distancia, el nombre del piloto remoto responsable del vuelo;
+
+(6) la actividad realizada (añadir la referencia al STS o el número de autorización, según corresponda);
+
+(7) cualquier incidente o accidente significativo102 ocurridos durante el operativo;
+
+(8) una inspección previa al vuelo completa;
+
+(9) cualquier defecto y rectificación;
+
+(10) cualquier reparación o cambio en la configuración del UAS; y
+
+(11) la información necesaria para cumplir con UAS.SPEC.100 .
+
+(do) Los registros deben almacenarse durante 2 años de manera que se garantice su protección contra acceso no autorizado, daños, alteraciones y robo.
+
+(d) El libro de registro puede generarse en uno de los siguientes formatos: electrónico o en papel. En caso de utilizar el formato papel, deberá contener, en un solo volumen, todas las páginas necesarias para registrar el tiempo de vuelo del titular. Cuando se complete un volumen, se iniciará uno nuevo en base a los datos acumulados del anterior.
+
+UAS.SPEC.060 Responsabilidades del piloto remoto
+
+Reglamento (UE) 2020/639
+
+(1) El piloto remoto deberá:
+
+(a) no desempeñar funciones bajo la influencia de sustancias psicoactivas o alcohol o cuando no se encuentre en condiciones de desempeñar sus tareas debido a lesión, fatiga, medicación, enfermedad u otras causas;
+
+(b) tener la competencia de piloto remoto apropiada según se define en la autorización operacional, en el escenario estándar definido en el Apéndice 1  o según lo definido por el LUC y llevar una prueba de competencia mientras opera el UAS.
+
+(do)  Familiarizarse con las instrucciones del fabricante proporcionadas por el fabricante del UAS.
+
+(2) Antes de iniciar una operación UAS, el piloto remoto deberá cumplir con todo lo siguiente:
+
+(a) obtener información actualizada pertinente a la operación prevista sobre cualquier zona geográfica definida de conformidad con el artículo 15  ;
+
+(b) garantizar que el entorno operativo sea compatible con las limitaciones y condiciones autorizadas o declaradas;
+
+(do) asegurarse de que el UAS se encuentra en condiciones seguras para completar el vuelo previsto de forma segura y, si corresponde, verificar si la identificación remota directa está activa y actualizada;
+
+(d) garantizar que la información sobre la operación se haya puesto a disposición de la unidad de servicio de tránsito aéreo (ATS) pertinente, de otros usuarios del espacio aéreo y de las partes interesadas pertinentes, tal como lo exige la autorización operativa o las condiciones publicadas por el Estado miembro para la zona geográfica de operación de conformidad con el artículo 15  .
+
+(3) Durante el vuelo, el piloto remoto deberá:
+
+(a) cumplir con las limitaciones y condiciones autorizadas o declaradas;
+
+(b) evitar cualquier riesgo de colisión con cualquier aeronave tripulada e interrumpir un vuelo cuando continuarlo pueda suponer un riesgo para otras aeronaves, personas, animales, medio ambiente o bienes;
+
+(do) cumplir las limitaciones operativas en las zonas geográficas definidas de conformidad con el artículo 15  ;
+
+(d) cumplir con los procedimientos del operador;
+
+ (mi) no volar cerca o dentro de áreas donde se esté llevando a cabo un esfuerzo de respuesta a emergencias a menos que tengan permiso para hacerlo de los servicios de respuesta a emergencias responsables.
+
+AMC1 UAS.SPEC.060(2)(b) Responsabilidades del piloto remoto
+
+Decisión ED 2019/021/R
+
+ENTORNO OPERATIVO
+
+(a) El piloto remoto, o el operador del UAS en el caso de una operación autónoma, debe verificar cualquier condición que pueda afectar la operación del UAS, como la ubicación de personas, propiedades, vehículos, vías públicas, obstáculos, aeródromos, infraestructura crítica y cualquier otro elemento que pueda representar un riesgo para la seguridad de la operación del UAS.
+
+(b) La familiarización con el entorno y los obstáculos debe realizarse mediante un reconocimiento del área donde se pretende realizar la operación.
+
+(do) Se deberá verificar que las condiciones meteorológicas en el momento de inicio de la operación y las que se esperan durante todo el período de la misma sean compatibles con las definidas en el manual del fabricante, así como con la autorización o declaración de operación, según corresponda.
+
+(d) El piloto remoto debe estar familiarizado con las condiciones de iluminación y hacer un esfuerzo razonable para identificar posibles fuentes de energía electromagnética, que pueden causar efectos indeseables, como EMI o daños físicos al equipo operativo del UAS.
+
+AMC1 UAS.SPEC.060(2)(c) Responsabilidades del piloto remoto
+
+Decisión ED 2019/021/R
+
+EL UAS ESTÁ EN CONDICIONES SEGURAS PARA COMPLETAR EL VUELO PREVISTO
+
+El piloto remoto, o el operador en el caso de una operación autónoma, deberá:
+
+(a) actualizar el UAS con datos para la función de geoconciencia si hay una disponible en el UA;
+
+(b) garantizar que el UAS esté en condiciones de volar y cumpla las instrucciones y limitaciones proporcionadas por el fabricante;
+
+(do) garantizar que cualquier carga útil transportada esté correctamente asegurada e instalada, respetando los límites de masa y centro de gravedad del UA;
+
+(d) Asegúrese de que el UA tenga suficiente energía de propulsión para la operación prevista basándose en:
+
+(i) la operación prevista; y
+
+(ii) la necesidad de energía adicional en caso de eventos impredecibles; y
+
+(mi) para un UAS equipado con una función de recuperación de pérdida de enlace de datos, garantizar que la función de recuperación permita una recuperación segura del UAS para la operación prevista; para funciones de recuperación de pérdida de enlace de datos programables, el piloto remoto puede tener que configurar los parámetros de esta función para adaptarla a la operación prevista.
+
+UAS.SPEC.070 Transferibilidad de una autorización operativa
+
+Reglamento (UE) 2020/639
+
+Una autorización operativa no es transferible.
+
+UAS.SPEC.080 Duración y validez de una autorización operacional
+
+Reglamento (UE) 2020/639
+
+(1) La autoridad competente especificará la duración de la autorización operativa en la propia autorización.
+
+(2) No obstante lo dispuesto en el punto (1), la autorización operativa seguirá siendo válida mientras el operador del UAS siga cumpliendo los requisitos pertinentes del presente Reglamento y las condiciones definidas en la autorización operativa.
+
+(3) En caso de revocación o entrega de la autorización operacional, el operador del UAS deberá proporcionar un acuse de recibo en formato digital que deberá ser devuelto a la autoridad competente sin demora.
+
+UAS.SPEC.085 Duración y validez de una declaración operacional
+
+Reglamento (UE) 2020/639
+
+La declaración operativa tendrá una duración limitada de dos años. La declaración dejará de considerarse completa en el sentido del punto (4) del apartado UAS.SPEC.020 si:
+
+(1) durante la supervisión del operador del UAS, la autoridad competente ha constatado que la operación del UAS no se lleva a cabo de conformidad con la declaración operativa;
+
+(2) las condiciones de operación del UAS han cambiado hasta el punto de que la declaración operacional ya no cumple con los requisitos aplicables del presente Reglamento;
+
+(3) a la autoridad competente no se le concede acceso de conformidad con el punto UAS.SPEC.090 .
+
+UAS.SPEC.090 Acceso
+
+Reglamento (UE) 2020/639
+
+A los efectos de demostrar el cumplimiento del presente Reglamento, un operador de UAS concederá a cualquier persona debidamente autorizada por la autoridad competente acceso a cualquier instalación, UAS, documento, registro, dato, procedimiento o cualquier otro material relevante para su actividad, que esté sujeto a autorización operacional o declaración operacional, independientemente de que su actividad esté o no contratada o subcontratada a otra organización.
+
+UAS.SPEC.100 Uso de equipos certificados y aeronaves no tripuladas certificadas
+
+Reglamento (UE) 2024/1110
+
+(1) Cuando el operador de UAS utilice una aeronave no tripulada para la que se haya expedido un certificado de aeronavegabilidad o un certificado de aeronavegabilidad restringido, el operador de UAS se asegurará de que el sistema de aeronave no tripulada cumpla con el Reglamento Delegado (UE) 2024/1107;
+
+(2) Cuando el operador del UAS utilice equipo certificado en una aeronave no tripulada para la que no se haya expedido ni un certificado de aeronavegabilidad ni un certificado de aeronavegabilidad restringido, el operador del UAS deberá llevar a cabo todas las tareas siguientes:
+
+(i) registrar el tiempo de operación o servicio de acuerdo con las instrucciones o procedimientos aplicables al equipo certificado;
+
+(ii) seguir las instrucciones a que se refiere el certificado del equipo, así como cumplir también con cualquier directiva de aeronavegabilidad aplicable emitida por la Agencia;
+
+(iii) aplicar cualquier medida de seguridad ordenada por la autoridad competente de conformidad con el artículo 19(4);
+
+(iv) utilizar cualquier información de seguridad obligatoria pertinente emitida por la Agencia.
+
+GM1 UAS.SPEC.100 El uso de equipos certificados y aeronaves no tripuladas certificadas
+
+Decisión ED 2019/021/R
+
+GENERAL
+
+A los efectos de UAS.SPEC.100 , se considera "equipo certificado" cualquier equipo para el cual la organización de diseño pertinente haya demostrado el cumplimiento de las especificaciones de certificación aplicables y haya recibido algún tipo de reconocimiento de la EASA que acredite dicho cumplimiento (por ejemplo, una autorización de la ETSO). Este proceso es independiente del proceso de marcado CE.
+
+El uso de equipos o aeronaves no tripuladas certificadas en la categoría de operación “específica” no implica una transferencia de las actividades de vuelo a la categoría de operación “certificada”. Sin embargo, el uso de equipos o aeronaves no tripuladas certificadas en la categoría “específica” debe considerarse como una medida de reducción y/o mitigación de riesgos en el SORA.
+Anterior
+Próximo
